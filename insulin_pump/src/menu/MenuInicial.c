@@ -4,6 +4,7 @@
 #include "../config/GlobalConfig.h"
 #include "MenuConfigurar.h"
 #include "MenuExecutando.h"
+#include "../insulinPump/InsulinPump.h"
 
 void mostrarMenuInicial();
 IMenu* analisarBotoesMenuInicial();
@@ -65,6 +66,7 @@ IMenu* analisarBotoesMenuInicial(){
       lcd->clear();
        if(indiceSelecionado == 0){
           delayTrocaMenu();
+          InsulinPump.start();
           return &MenuExecutando;
        }
        else if(indiceSelecionado == 1) {

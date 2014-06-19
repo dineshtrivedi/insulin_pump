@@ -1,13 +1,25 @@
 #include "src/lcd/lcdFactory.h"
 #include "src/config/GlobalConfig.h"
-//#include "src/menu/MenuInicial.h"
+#include "src/insulinPump/InsulinPump.h"
 #include "src/timerMotor/TimerMotorPasso.h"
 #include "src/menu/MenuReservatorio.h"
+
+//verifica se o contador de segundos chegou no intervalo que deve ocorrer a infusao
+void verifica_infusao(){
+  /*incrementa o contador que e utilizado pra infundir a insulina*/
+  ++m_contador_injetar;
+  /*caso tenha chegado no intervalo que deve ocorrer a infusao*/
+  if(m_contador_injetar == m_intervalo_segundos_inteiro_para_injecao){
+    m_flag_injetar = TRUE;
+    m_contador_injetar = 0;
+  }
+}
 
 void interrupt() {      //vetor de interrupção de alta prioridade padrão do mikroc
   tick++;
     if (tick >= 400){
        ++segundos;
+       verifica_infusao();
         if(segundos > 59){
             segundos = 0;
             ++minutos;
@@ -28,11 +40,11 @@ void interrupt() {      //vetor de interrupção de alta prioridade padrão do mikr
 
 void main() {
 
-   unsigned char converter[15];
+  unsigned char converter[15];
   ILcd* lcd = getLcd( getTipoLcd() );
-//  IMenu* menu = &MenuInicial;
   IMenu* menu = &MenuReservatorio;
 
+  InsulinPump.initialize();
   timerMotorPasso.configurar();
   timerMotorPasso.iniciar();
 
@@ -46,6 +58,7 @@ void main() {
   while(executarLoopPrincipal()) {
       menu->mostrarMenu();
       menu = menu->analisarBotoes();
+      InsulinPump.inject();
     }
     
 }

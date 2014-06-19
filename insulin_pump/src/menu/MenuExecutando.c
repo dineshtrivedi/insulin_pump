@@ -4,6 +4,7 @@
 #include "../config/GlobalConfig.h"
 #include "MenuInicial.h"
 #include "../timerMotor/TimerMotorPasso.h"
+#include "../insulinPump/InsulinPump.h"
 
 void mostrarMenuExecutando();
 IMenu* analisarBotoesExecutando();
@@ -14,14 +15,16 @@ IMenu MenuExecutando = {
 };
 
 void mostrarMenuExecutando(){
+  int porcentagem = 100*(getQuantidadeTotalInsulinaReservatorio() - m_quantidade_injetada)/getQuantidadeTotalInsulinaReservatorio();
   ILcd* lcd = getLcd( getTipoLcd() );
   unsigned char converter[15];
   memset(&converter, 0x00, sizeof(converter));
   
-  sprintf(converter,"%02d:%02d:%02d F:%02d%%", horas, minutos, segundos, (int)100);
+  sprintf(converter,"%02d:%02d:%02d F:%02d%%", horas, minutos, segundos, porcentagem);
   lcd->write(1,1, converter);
 
-  sprintf(converter,"%.2f/%.2f un", 0.0f, getQuantidadeInsulinaHora(horas));
+  sprintf(converter,"%.2f/%.2f un", (float)((float)InsulinPump.getQuantidadeInjetadaHora()*getQuantidadeInsulinaMinima()),
+                                    getQuantidadeInsulinaHora(horas));
   lcd->write(2,1, converter);
 }
 
@@ -35,6 +38,7 @@ IMenu* analisarBotoesExecutando(){
     lcd->clear();
     bloquearBotaoConfirmar = 0;
     delayTrocaMenu();
+    InsulinPump.stop();
     return &MenuInicial;
   }
  
@@ -46,6 +50,7 @@ IMenu* analisarBotoesExecutando(){
     lcd->clear();
     bloquearBotaoVoltarBloquear = 0;
     delayTrocaMenu();
+    InsulinPump.stop();
     return &MenuInicial;
   }
   

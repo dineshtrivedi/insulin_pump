@@ -2,6 +2,11 @@
 #define GLOBAL_CONFIG_H
 
 #include "../lcd/lcd.h"
+
+#define TRUE 1
+#define FALSE 0
+typedef char boolean;
+
 void iniciliazar();
 LCD_TYPE getTipoLcd();
 char getQtdeHoras(char hora);
@@ -11,7 +16,7 @@ void setQtdeHoras(char hora, char valor);
 float getQuantidadeInsulinaMinima();
 float getQuantidadeInsulinaHora(char hora);
 void delayTrocaMenu();
-float getQuantidadeTotalInsulinaReservatorio();
+int getQuantidadeTotalInsulinaReservatorio();
 void resetQuantidadeTotalInsulinaReservatorio();
 char executarLoopPrincipal();
 void sairLoopPrincipal();

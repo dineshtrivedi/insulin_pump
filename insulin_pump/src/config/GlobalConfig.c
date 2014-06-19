@@ -1,7 +1,7 @@
 #include "GlobalConfig.h"
 
 #define QUANTIDADE_TOTAL_RESERVATORIO_INSULINA 100
-float quantidadeTotalInsulinaReservatorio = QUANTIDADE_TOTAL_RESERVATORIO_INSULINA;
+int quantidadeTotalInsulinaReservatorio = QUANTIDADE_TOTAL_RESERVATORIO_INSULINA;
 char vetorQtdeHoras[24];
 char executarAplicacao = 1;
 
@@ -61,7 +61,7 @@ void setQtdeHoras(char hora, char valor){
 }
 
 float getQuantidadeInsulinaMinima(){
-   return 0.25f;
+   return 0.1f;
 }
 
 float getQuantidadeInsulinaHora(char hora){
@@ -72,7 +72,7 @@ void delayTrocaMenu(){
    Delay_ms(50);
 }
 
-float getQuantidadeTotalInsulinaReservatorio(){
+int getQuantidadeTotalInsulinaReservatorio(){
    return quantidadeTotalInsulinaReservatorio;
 }
 
