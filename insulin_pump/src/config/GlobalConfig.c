@@ -6,8 +6,8 @@ char vetorQtdeHoras[24];
 char executarAplicacao = 1;
 
 void iniciliazar(){
-  vetorQtdeHoras[0] = 0;
-  vetorQtdeHoras[1] = 0;
+  vetorQtdeHoras[0] = 12;
+  vetorQtdeHoras[1] = 24;
   vetorQtdeHoras[2] = 0;
   vetorQtdeHoras[3] = 0;
   vetorQtdeHoras[4] = 0;

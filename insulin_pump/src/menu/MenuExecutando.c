@@ -15,7 +15,7 @@ IMenu MenuExecutando = {
 };
 
 void mostrarMenuExecutando(){
-  int porcentagem = 100*(getQuantidadeTotalInsulinaReservatorio() - m_quantidade_injetada)/getQuantidadeTotalInsulinaReservatorio();
+  int porcentagem = 100*(getQuantidadeTotalInsulinaReservatorio() - m_quantidade_injetada_total)/getQuantidadeTotalInsulinaReservatorio();
   ILcd* lcd = getLcd( getTipoLcd() );
   unsigned char converter[15];
   memset(&converter, 0x00, sizeof(converter));

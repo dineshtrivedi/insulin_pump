@@ -9,15 +9,15 @@ void verifica_infusao(){
   /*incrementa o contador que e utilizado pra infundir a insulina*/
   ++m_contador_injetar;
   /*caso tenha chegado no intervalo que deve ocorrer a infusao*/
-  if(m_contador_injetar == m_intervalo_segundos_inteiro_para_injecao){
+  if(m_intervalo_segundos_inteiro_para_injecao > 0 && m_contador_injetar >= m_intervalo_segundos_inteiro_para_injecao){
     m_flag_injetar = TRUE;
-    m_contador_injetar = 0;
+    m_contador_injetar = m_contador_injetar % m_intervalo_segundos_inteiro_para_injecao;
   }
 }
 
 void interrupt() {      //vetor de interrupção de alta prioridade padrão do mikroc
   tick++;
-    if (tick >= 400){
+    if (tick >= 10){
        ++segundos;
        verifica_infusao();
         if(segundos > 59){
@@ -25,6 +25,9 @@ void interrupt() {      //vetor de interrupção de alta prioridade padrão do mikr
             ++minutos;
             if (minutos > 59) {
                minutos = 0;
+               m_contador_injetar = 0;
+               m_quantidade_injetada_hora = 0;
+               m_flag_mudou_hora = TRUE;
                ++horas;
                if (horas > 23) {
                   horas = 0;

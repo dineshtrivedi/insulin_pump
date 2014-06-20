@@ -52,3 +52,10 @@
 /insulin_pump/src/timerMotor/TimerMotorPasso.asm
 /insulin_pump/src/timerMotor/TimerMotorPasso.cp
 /insulin_pump/src/timerMotor/TimerMotorPasso.c.ini
+/insulin_pump/src/Motor/MotorProteus/MotorProteus.c.ini
+/insulin_pump/src/Motor/MotorProteus/MotorProteus.cp
+/insulin_pump/src/Motor/MotorProteus/MotorProteus.mcl
+/insulin_pump/src/Motor/MotorProteus/MotorProteus.asm
+/insulin_pump/src/Motor/MotorPassoFactory.mcl
+/insulin_pump/src/Motor/MotorPassoFactory.asm
+/insulin_pump/src/Motor/MotorPassoFactory.cp
