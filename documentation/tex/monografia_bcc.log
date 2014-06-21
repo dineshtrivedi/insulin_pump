@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  21 JUN 2014 18:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  21 JUN 2014 19:35
 entering extended mode
 **monografia_bcc.tex
 
@@ -1004,17 +1004,17 @@ c.lot) [15] [16
 ]
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
 c.toc
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 22.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 22.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 28.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 28.
+(Font)              <14.4> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 28.
-)
-Underfull \vbox (badness 4084) has occurred while \output is active []
-
- [21]
-[22]
+(Font)              <7> on input line 34.
+ [21]) [22]
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\introducao.te
 x
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1028,7 +1028,7 @@ Overfull \hbox (32.49997pt too wide) in paragraph at lines 3--3
 -[]noticias / 2316-[]bombas-[]de-[]infusao-[]de-[]insulina$[][]| 
  []
 
-<images/bombainsulina.png, id=219, 487.8225pt x 95.6072pt>
+<images/bombainsulina.png, id=238, 487.8225pt x 95.6072pt>
 File: images/bombainsulina.png Graphic file (type png)
 
 <use images/bombainsulina.png>
@@ -1053,7 +1053,7 @@ insulina.png>]
 [24]) [25]
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\sistemas_emba
 rcados.tex [26]
-<images/exemplo_sistemas_embarcados.png, id=261, 233.37187pt x 188.95593pt>
+<images/exemplo_sistemas_embarcados.png, id=280, 233.37187pt x 188.95593pt>
 File: images/exemplo_sistemas_embarcados.png Graphic file (type png)
 
 <use images/exemplo_sistemas_embarcados.png>
@@ -1073,7 +1073,7 @@ Underfull \vbox (badness 2478) has occurred while \output is active []
 
  [28 <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation/tex/images/e
 xemplo_sistemas_embarcados.png>]
-<images/exemplo_sistemas_embarcados_criticos.png, id=293, 281.55188pt x 348.552
+<images/exemplo_sistemas_embarcados_criticos.png, id=312, 281.55188pt x 348.552
 19pt>
 File: images/exemplo_sistemas_embarcados_criticos.png Graphic file (type png)
  <use images/exemplo_sistemas_embarcados_criticos.png>
@@ -1085,14 +1085,14 @@ xemplo_sistemas_embarcados_criticos.png>] [30] [31]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 112.
  [32]
-<images/forca_motor_passo.png, id=360, 264.99pt x 159.59625pt>
+<images/forca_motor_passo.png, id=379, 264.99pt x 159.59625pt>
 File: images/forca_motor_passo.png Graphic file (type png)
 
 <use images/forca_motor_passo.png>
 Package pdftex.def Info: images/forca_motor_passo.png used on input line 119.
 (pdftex.def)             Requested size: 264.98935pt x 159.59584pt.
 
-<images/visao_motor_passo.png, id=362, 422.32782pt x 258.21469pt>
+<images/visao_motor_passo.png, id=381, 422.32782pt x 258.21469pt>
 File: images/visao_motor_passo.png Graphic file (type png)
 
 <use images/visao_motor_passo.png>
@@ -1103,13 +1103,13 @@ orca_motor_passo.png>]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 139.
 
-<images/bobinas.png, id=374, 252.945pt x 295.85532pt>
+<images/bobinas.png, id=393, 252.945pt x 295.85532pt>
 File: images/bobinas.png Graphic file (type png)
  <use images/bobinas.png>
 Package pdftex.def Info: images/bobinas.png used on input line 148.
 (pdftex.def)             Requested size: 252.94438pt x 295.85458pt.
 
-<images/relacao_bobina.png, id=375, 314.67563pt x 101.62968pt>
+<images/relacao_bobina.png, id=394, 314.67563pt x 101.62968pt>
 File: images/relacao_bobina.png Graphic file (type png)
 
 <use images/relacao_bobina.png>
@@ -1117,7 +1117,7 @@ Package pdftex.def Info: images/relacao_bobina.png used on input line 155.
 (pdftex.def)             Requested size: 314.67485pt x 101.62943pt.
  [34 <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation/tex/images/v
 isao_motor_passo.png>]
-<images/single_stack.png, id=385, 304.13625pt x 246.9225pt>
+<images/single_stack.png, id=404, 304.13625pt x 246.9225pt>
 File: images/single_stack.png Graphic file (type png)
 
 <use images/single_stack.png>
@@ -1128,7 +1128,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35 <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation/tex/images/b
 obinas.png> <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation/tex/i
-mages/relacao_bobina.png>] <images/hibrido.png, id=392, 396.7322pt x 344.78813p
+mages/relacao_bobina.png>] <images/hibrido.png, id=411, 396.7322pt x 344.78813p
 t>
 File: images/hibrido.png Graphic file (type png)
 
@@ -1137,12 +1137,57 @@ Package pdftex.def Info: images/hibrido.png used on input line 177.
 (pdftex.def)             Requested size: 277.71063pt x 241.35004pt.
  [36 <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation/tex/images/s
 ingle_stack.png> <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation/
-tex/images/hibrido.png>]) [37] [38
+tex/images/hibrido.png>])
+(C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\proteus.tex
+[37] [38
 
-] [39] [40
+]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <24.88> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <17.28> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 10.
 
-] [41]
-[42
+Overfull \hbox (2.927pt too wide) in paragraph at lines 14--15
+[]\T1/ptm/m/n/12 Circuitos in-te-gra-dos das fa-mí-lias: 74ALS, 74AS, 74F, 74HC
+, 74HCT, 74LS, 74S e 74STD; 
+ []
+
+[39])
+(C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\mikroc.tex
+[40])
+(C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\PIC18F452.tex
+[41
+
+] [42
+
+] <images/pic.png, id=460, 182.93344pt x 182.93344pt>
+File: images/pic.png Graphic file (type png)
+
+<use images/pic.png>
+Package pdftex.def Info: images/pic.png used on input line 27.
+(pdftex.def)             Requested size: 182.93298pt x 182.93298pt.
+ [43]
+<images/estrutura_pic.png, id=466, 455.45157pt x 554.07pt>
+File: images/estrutura_pic.png Graphic file (type png)
+
+<use images/estrutura_pic.png>
+Package pdftex.def Info: images/estrutura_pic.png used on input line 38.
+(pdftex.def)             Requested size: 273.27304pt x 332.44456pt.
+ [44 <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation/tex/images/p
+ic.png> <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation/tex/image
+s/estrutura_pic.png>]
+<images/pinos_pic.png, id=472, 328.97906pt x 254.45062pt>
+File: images/pinos_pic.png Graphic file (type png)
+
+<use images/pinos_pic.png>
+Package pdftex.def Info: images/pinos_pic.png used on input line 49.
+(pdftex.def)             Requested size: 197.38895pt x 152.67154pt.
+) [45 <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation/tex/images/
+pinos_pic.png>] [46
+
+] [47] [48
+
+] [49] [50
 
 ]
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
@@ -1150,66 +1195,66 @@ c.bbl
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
 c.brf)
 \tf@brf=\write5
- [43] [44
+ [51] [52
 
 ]
 bibitemlist
-[45]) [46] [47
+[53]) [54] [55
 
 
-] [48] [49
+] [56] [57
 
-] [50
+] [58
 
-] [51] [52
+] [59] [60
 
-] [53
+] [61
 
-] [54]
+] [62]
 
 AED: lastpage setting LastPage
-[55
+[63
 
 ]
 \tf@lof=\write6
 \tf@lot=\write7
 \tf@toc=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 425.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 425.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 442.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 442.
 
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
 c.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 425.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 425.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 442.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 442.
 Package rerunfilecheck Info: File `monografia_bcc.brf' has not changed.
-(rerunfilecheck)             Checksum: 19C7EE7FA841ABC102745FCB69FD9EBB;2305.
+(rerunfilecheck)             Checksum: 36AA57D7BA4D5CB0C34A8E3C08FF987F;2479.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 425.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 442.
  ) 
 Here is how much of TeX's memory you used:
- 11377 strings out of 493921
- 165368 string characters out of 3147279
- 277108 words of memory out of 3000000
- 14293 multiletter control sequences out of 15000+200000
- 62390 words of font info for 68 fonts, out of 3000000 for 9000
+ 11481 strings out of 493921
+ 167302 string characters out of 3147279
+ 279613 words of memory out of 3000000
+ 14358 multiletter control sequences out of 15000+200000
+ 71278 words of font info for 74 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 39i,12n,31p,1059b,584s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,12n,31p,1059b,582s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
-vb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
-tmri8a.pfb>
-Output written on monografia_bcc.pdf (57 pages, 1050975 bytes).
+vb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/tim
+es/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on monografia_bcc.pdf (65 pages, 1423723 bytes).
 PDF statistics:
- 717 PDF objects out of 1000 (max. 8388607)
- 146 named destinations out of 1000 (max. 500000)
- 399 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 817 PDF objects out of 1000 (max. 8388607)
+ 166 named destinations out of 1000 (max. 500000)
+ 462 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -19,16 +19,22 @@
 \contentsline {subsection}{\numberline {2.3.7}MOTOR DE PASSO RELUT\IeC {\^A}NCIA VARI\IeC {\'A}VEL \IeC {\textendash } \emph {SINGLE STACK}}{35}{subsection.2.3.7}
 \contentsline {subsection}{\numberline {2.3.8}MOTOR DE PASSO H\IeC {\'I}BRIDO}{36}{subsection.2.3.8}
 \contentsline {subsection}{\numberline {2.3.9}COMPARA\IeC {\c C}\IeC {\~A}O ENTRE TIPOS DE MOTORES}{37}{subsection.2.3.9}
-\contentsline {chapter}{\chapternumberline {3}Revis\IeC {\~a}o Bibliogr\IeC {\'a}fica}{39}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introdu\IeC {\c c}\IeC {\~a}o}{39}{section.3.1}
-\contentsline {chapter}{\chapternumberline {4}Resultados}{41}{chapter.4}
-\contentsline {chapter}{\chapternumberline {5}Conclus\IeC {\~a}o}{43}{chapter.5}
-\contentsline {chapter}{Refer\^encias}{45}{section*.14}
+\contentsline {chapter}{\chapternumberline {3}PROTEUS \emph {DESIGN SUITE}}{39}{chapter.3}
+\contentsline {section}{\numberline {3.1}ISIS \emph {SCHEMATIC CAPTURE}}{39}{section.3.1}
+\contentsline {chapter}{\chapternumberline {4}MIKROC}{41}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}PIC18F452}{43}{chapter.5}
+\contentsline {section}{\numberline {5.1}Estrutura Interna}{44}{section.5.1}
+\contentsline {section}{\numberline {5.2}DESCRI\IeC {\c C}\IeC {\~A}O DOS PINOS}{45}{section.5.2}
+\contentsline {chapter}{\chapternumberline {6}Revis\IeC {\~a}o Bibliogr\IeC {\'a}fica}{47}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introdu\IeC {\c c}\IeC {\~a}o}{47}{section.6.1}
+\contentsline {chapter}{\chapternumberline {7}Resultados}{49}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Conclus\IeC {\~a}o}{51}{chapter.8}
+\contentsline {chapter}{Refer\^encias}{53}{section*.14}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\contentsline {part}{Ap\^endices}{47}{section*.15}
-\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo de Ap\IeC {\^e}ndice}{49}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice}{51}{appendix.B}
+\contentsline {part}{Ap\^endices}{55}{section*.15}
+\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo de Ap\IeC {\^e}ndice}{57}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice}{59}{appendix.B}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
-\contentsline {part}{Anexos}{53}{section*.16}
-\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo do Anexo}{55}{appendix.anexochapback.1}
+\contentsline {part}{Anexos}{61}{section*.16}
+\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo do Anexo}{63}{appendix.anexochapback.1}

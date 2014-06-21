@@ -65,6 +65,13 @@ Dispon{\'\i}vel em:
 {KOPETZ, H. \emph{Real-time systems: design principles for distributed embedded
   applications}. [S.l.]: Springer, 2011.}
 
+\bibitem[{LABCENTER} 2013]{proteus2013}
+\abntrefinfo{{LABCENTER}}{{LABCENTER}}{2013}
+{{LABCENTER}. \emph{Labcenter Eletronics}. 2013.
+Acessado em 05/03/2013.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.labcenter\-.com\-/index\-.cfm$>$}{http://www.labcenter.com/index.cfm}.}
+
 \bibitem[Lee e Seshia 2011]{lee2011introduction}
 \abntrefinfo{Lee e Seshia}{LEE; SESHIA}{2011}
 {LEE, E.~A.; SESHIA, S.~A. \emph{Introduction to embedded systems: A
@@ -74,6 +81,14 @@ Dispon{\'\i}vel em:
 \abntrefinfo{Mall}{MALL}{2009}
 {MALL, R. \emph{Real-Time Systems: Theory and Practice}. [S.l.]: Pearson
   Education India, 2009.}
+
+\bibitem[{MIKROELETRONIKA} 2006]{mikroc2006}
+\abntrefinfo{{MIKROELETRONIKA}}{{MIKROELETRONIKA}}{2006}
+{{MIKROELETRONIKA}. \emph{MikroC Making it Simple User's Manual}.
+[S.l.], 2006. Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.mikroe\-.com\-/pdf\-/mikroc\-/mikroc\underline{\
+  }manual\-.pdf$>$}{http://www.mikroe.com/pdf/mikroc/mikroc_manual.pdf}. Acesso
+  em: 16.4.2013.}
 
 \bibitem[{NOMADSUSP} 2012]{nomadusp2014}
 \abntrefinfo{{NOMADSUSP}}{{NOMADSUSP}}{2012}
@@ -152,5 +167,12 @@ Acessado em 01/12/2012.
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/pt\-.wikipedia\-.org\-/wiki\-/Microcontrolador\underline{\
   }PIC$>$}{http://pt.wikipedia.org/wiki/Microcontrolador_PIC}.}
+
+\bibitem[{WIKIPEDIA} 2013]{wikipedia2012spice}
+\abntrefinfo{{WIKIPEDIA}}{{WIKIPEDIA}}{2013}
+{{WIKIPEDIA}. \emph{SPICE}. 2013.
+Acessado em 06/03/2013.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/en\-.wikipedia\-.org\-/wiki\-/SPICE$>$}{http://en.wikipedia.org/wiki/SPICE}.}
 
 \end{thebibliography}
