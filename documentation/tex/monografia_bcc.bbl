@@ -1,0 +1,156 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v<VERSION> }
+
+\bibitem[Acarnley 2002]{acarnley2002stepping}
+\abntrefinfo{Acarnley}{ACARNLEY}{2002}
+{ACARNLEY, P.~P. \emph{Stepping motors: a guide to theory and practice}.
+  [S.l.]: Iet, 2002.}
+
+\bibitem[Chironis e Sclater 1991]{chironis1991mechanisms}
+\abntrefinfo{Chironis e Sclater}{CHIRONIS; SCLATER}{1991}
+{CHIRONIS, N.~P.; SCLATER, N. \emph{Mechanisms \& mechanical devices
+  sourcebook}. [S.l.]: McGraw-Hill New York, 1991.}
+
+\bibitem[Cunha 2013]{cunha2013}
+\abntrefinfo{Cunha}{CUNHA}{2013}
+{CUNHA, A. \emph{O que são sistemas embarcados?} 2013.
+Acessado em 20/05/2014.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.techtraining\-.eng\-.br\-/files\-/uploads\-/2013\-/04\-/19\-/artigo-sist-emb\-.pdf$>$}{http://www.techtraining.eng.br/files/uploads/2013/04/19/artigo-sist-emb.pdf}.}
+
+\bibitem[{DIABETES} 2013]{diabetes2013}
+\abntrefinfo{{DIABETES}}{{DIABETES}}{2013}
+{{DIABETES}. \emph{Bomba de infusão de insulina}. 2013.
+Acessado em 08/03/2013.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.diabetes\-.org\-.br\-/sala-de-noticias\-/2316-bombas-de-infusao-de-insulina$>$}{http://www.diabetes.org.br/sala-de-noticias/2316-bombas-de-infusao-de-insulina}.}
+
+\bibitem[Farines, Fraga e Oliveira 2000]{farines2000sistemas}
+\abntrefinfo{Farines, Fraga e Oliveira}{FARINES; FRAGA; OLIVEIRA}{2000}
+{FARINES, J.-M.; FRAGA, J. d.~S.; OLIVEIRA, R.~d. Sistemas de tempo real.
+\emph{Escola de Computa{\c{c}}{\~a}o}, v.~2000, p.~201, 2000.}
+
+\bibitem[Feldmann et al. 2007]{feldmann2007survey}
+\abntrefinfo{Feldmann et al.}{FELDMANN et al.}{2007}
+{FELDMANN, R.~L. et al. A survey of software engineering techniques in medical
+  device development. In:  IEEE. \emph{High Confidence Medical Devices,
+  Software, and Systems and Medical Device Plug-and-Play Interoperability,
+  2007. HCMDSS-MDPnP. Joint Workshop on}. [S.l.], 2007. p. 46--54.}
+
+\bibitem[Ganssle 1999]{ganssle1999art}
+\abntrefinfo{Ganssle}{GANSSLE}{1999}
+{GANSSLE, J. \emph{The art of designing embedded systems}. [S.l.]: Newnes,
+  1999.}
+
+\bibitem[Germano 2011]{germano2011}
+\abntrefinfo{Germano}{GERMANO}{2011}
+{GERMANO, A. \emph{Você sabe o que são sistemas embarcado?} 2011.
+Acessado em 20/05/2014.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.gruponetcampos\-.com\-.br\-/2011\-/05\-/voce-sabe-o-que-sao-sistemas-embarcados\-/$>$}{http://www.gruponetcampos.com.br/2011/05/voce-sabe-o-que-sao-sistemas-embarcados/}.}
+
+\bibitem[Jordan 2006]{jordan2006standard}
+\abntrefinfo{Jordan}{JORDAN}{2006}
+{JORDAN, P. Standard iec 62304-medical device software-software lifecycle
+  processes. In:  IET. \emph{Software for Medical Devices, 2006. The
+  Institution of Engineering and Technology Seminar on}. [S.l.], 2006. p.
+  41--47.}
+
+\bibitem[Kopetz 2011]{kopetz2011real}
+\abntrefinfo{Kopetz}{KOPETZ}{2011}
+{KOPETZ, H. \emph{Real-time systems: design principles for distributed embedded
+  applications}. [S.l.]: Springer, 2011.}
+
+\bibitem[Lee e Seshia 2011]{lee2011introduction}
+\abntrefinfo{Lee e Seshia}{LEE; SESHIA}{2011}
+{LEE, E.~A.; SESHIA, S.~A. \emph{Introduction to embedded systems: A
+  cyber-physical systems approach}. [S.l.]: Lee \& Seshia, 2011.}
+
+\bibitem[Mall 2009]{mall2009real}
+\abntrefinfo{Mall}{MALL}{2009}
+{MALL, R. \emph{Real-Time Systems: Theory and Practice}. [S.l.]: Pearson
+  Education India, 2009.}
+
+\bibitem[{NOMADSUSP} 2012]{nomadusp2014}
+\abntrefinfo{{NOMADSUSP}}{{NOMADSUSP}}{2012}
+{{NOMADSUSP}. \emph{Sensores}. 2012.
+Acessado em 02/04/2014.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.nomads\-.usp\-.br\-/pesquisas\-/design\-/dos\-/Capacitacao\-/arquivos\-/sensores\-.pdf$>$}{http://www.nomads.usp.br/pesquisas/design/dos/Capacitacao/arquivos/sensores.pdf}.}
+
+\bibitem[{PORTALDIABETES} 2008]{portaldiabetes2008}
+\abntrefinfo{{PORTALDIABETES}}{{PORTALDIABETES}}{2008}
+{{PORTALDIABETES}. \emph{Iniciando insulinoterapia no diabetes mellitus tipo
+  2}. 2008.
+Acessado em 04/03/2013.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.portaldiabetes\-.com\-.br\-/conteudocompleto\-.asp?idconteudo=3267$>$}{http://www.portaldiabetes.com.br/conteudocompleto.asp?idconteudo=3267}.}
+
+\bibitem[{PORTALDIABETES} 2009]{portaldiabetes2009}
+\abntrefinfo{{PORTALDIABETES}}{{PORTALDIABETES}}{2009}
+{{PORTALDIABETES}. \emph{Bombas de Infus{\~a}o de Insulina}. 2009.
+Acessado em 10/03/2013.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.portaldiabetes\-.com\-.br\-/conteudocompleto\-.asp?idconteudo=3267$>$}{http://www.portaldiabetes.com.br/conteudocompleto.asp?idconteudo=3267}.}
+
+\bibitem[{RADIOAMADORES} 2009]{radio2012amadores}
+\abntrefinfo{{RADIOAMADORES}}{{RADIOAMADORES}}{2009}
+{{RADIOAMADORES}. \emph{Microcontroladores}. 2009.
+Acessado em 02/12/2012.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.radioamadores\-.net\-/files\-/microcontroladores\underline{\
+  }pic\-.pdf$>$}{http://www.radioamadores.net/files/microcontroladores_pic.pdf}.}
+
+\bibitem[Ros{\'a}rio 2006]{rosario2006principios}
+\abntrefinfo{Ros{\'a}rio}{ROS{\'A}RIO}{2006}
+{ROS{\'A}RIO, J.~M. \emph{Princ{\'\i}pios de mecatr{\^o}nica}. [S.l.]: Pearson
+  Prentice Hall, 2006.}
+
+\bibitem[Santos 2008]{demotor}
+\abntrefinfo{Santos}{SANTOS}{2008}
+{SANTOS, V.~P. de A. Motor de passo.
+2008.}
+
+\bibitem[{Sociedade Brasileira de Diabetes} 2014]{sbc2014}
+\abntrefinfo{{Sociedade Brasileira de Diabetes}}{{Sociedade Brasileira de
+  Diabetes}}{2014}
+{{Sociedade Brasileira de Diabetes}. \emph{Tudo sobre diabetes}. 2014.
+Acessado em 20/05/2014.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.diabetes\-.org\-.br$>$}{http://www.diabetes.org.br}.}
+
+\bibitem[Sommerville 2004]{sommerville2004software}
+\abntrefinfo{Sommerville}{SOMMERVILLE}{2004}
+{SOMMERVILLE, I. \emph{Software Engineering. International computer science
+  series}. [S.l.]: Addison Wesley, 2004.}
+
+\bibitem[{WIKIBOOK} 2012]{wikibook2012embedded}
+\abntrefinfo{{WIKIBOOK}}{{WIKIBOOK}}{2012}
+{{WIKIBOOK}. \emph{Embedded Systems Introduction}. 2012.
+Acessado em 02/12/2012.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/en\-.wikibooks\-.org\-/wiki\-/Embedded\underline{\
+  }Systems\-/Embedded\underline{\ }Systems\underline{\
+  }Introductio$>$}{http://en.wikibooks.org/wiki/Embedded_Systems/Embedded_Systems_Introductio}.}
+
+\bibitem[{WIKIPEDIA} 2012]{wikipedia2012stepper}
+\abntrefinfo{{WIKIPEDIA}}{{WIKIPEDIA}}{2012a}
+{{WIKIPEDIA}. \emph{Motor de passo}. 2012.
+Acessado em 04/12/2012.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/pt\-.wikipedia\-.org\-/wiki\-/Motor\underline{\
+  }de\underline{\ }passo$>$}{http://pt.wikipedia.org/wiki/Motor_de_passo}.}
+
+\bibitem[{WIKIPEDIA} 2012]{wikipedia2012pic}
+\abntrefinfo{{WIKIPEDIA}}{{WIKIPEDIA}}{2012b}
+{{WIKIPEDIA}. \emph{Pic}. 2012.
+Acessado em 01/12/2012.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/pt\-.wikipedia\-.org\-/wiki\-/Microcontrolador\underline{\
+  }PIC$>$}{http://pt.wikipedia.org/wiki/Microcontrolador_PIC}.}
+
+\end{thebibliography}

@@ -1,0 +1,34 @@
+\changetocdepth {3}
+\select@language {brazil}
+\contentsline {chapter}{\chapternumberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{23}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o}{25}{section.1.1}
+\contentsline {section}{\numberline {1.2}OBJETIVOS}{25}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}OBJETIVOS SECUND\IeC {\`A}RIOS}{25}{subsection.1.2.1}
+\contentsline {section}{\numberline {1.3}PROCEDIMENTOS METODOL\IeC {\'O}GICOS}{25}{section.1.3}
+\contentsline {chapter}{\chapternumberline {2}SISTEMAS EMBARCADOS}{27}{chapter.2}
+\contentsline {section}{\numberline {2.1}SISTEMAS EMBARCADOS DE TEMPO}{28}{section.2.1}
+\contentsline {section}{\numberline {2.2}SISTEMAS EMBARCADOS CR\IeC {\'I}TICO}{29}{section.2.2}
+\contentsline {section}{\numberline {2.3}MICROCONTROLADOR}{30}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}PIC}{30}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}SENSORES}{30}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}SENSORES BIOL\IeC {\'O}GICOS}{31}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}ATUADORES}{31}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}MOTOR DE PASSO}{32}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}MOTOR DE PASSO RELUT\IeC {\^A}NCIA VARI\IeC {\'A}VEL \IeC {\textendash } \emph {MULTI STACK}}{32}{subsection.2.3.6}
+\contentsline {subsubsection}{\numberline {2.3.6.1}\emph {DESIGN} DO MOTOR}{34}{subsubsection.2.3.6.1}
+\contentsline {subsection}{\numberline {2.3.7}MOTOR DE PASSO RELUT\IeC {\^A}NCIA VARI\IeC {\'A}VEL \IeC {\textendash } \emph {SINGLE STACK}}{35}{subsection.2.3.7}
+\contentsline {subsection}{\numberline {2.3.8}MOTOR DE PASSO H\IeC {\'I}BRIDO}{36}{subsection.2.3.8}
+\contentsline {subsection}{\numberline {2.3.9}COMPARA\IeC {\c C}\IeC {\~A}O ENTRE TIPOS DE MOTORES}{37}{subsection.2.3.9}
+\contentsline {chapter}{\chapternumberline {3}Revis\IeC {\~a}o Bibliogr\IeC {\'a}fica}{39}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introdu\IeC {\c c}\IeC {\~a}o}{39}{section.3.1}
+\contentsline {chapter}{\chapternumberline {4}Resultados}{41}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}Conclus\IeC {\~a}o}{43}{chapter.5}
+\contentsline {chapter}{Refer\^encias}{45}{section*.14}
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\contentsline {part}{Ap\^endices}{47}{section*.15}
+\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo de Ap\IeC {\^e}ndice}{49}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice}{51}{appendix.B}
+\cftinsert {AAA}
+\renewcommand *{\cftappendixname }{ANEXO \space }
+\contentsline {part}{Anexos}{53}{section*.16}
+\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo do Anexo}{55}{appendix.anexochapback.1}
