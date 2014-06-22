@@ -10,6 +10,11 @@
 {ACARNLEY, P.~P. \emph{Stepping motors: a guide to theory and practice}.
   [S.l.]: Iet, 2002.}
 
+\bibitem[Amorim 2008]{amorim2008novas}
+\abntrefinfo{Amorim}{AMORIM}{2008}
+{AMORIM, A. C. P.~d. Novas abordagens em insulinoterapia.
+Universidade da Beira Interior, 2008.}
+
 \bibitem[Chironis e Sclater 1991]{chironis1991mechanisms}
 \abntrefinfo{Chironis e Sclater}{CHIRONIS; SCLATER}{1991}
 {CHIRONIS, N.~P.; SCLATER, N. \emph{Mechanisms \& mechanical devices
@@ -82,6 +87,13 @@ Dispon{\'\i}vel em:
 {MALL, R. \emph{Real-Time Systems: Theory and Practice}. [S.l.]: Pearson
   Education India, 2009.}
 
+\bibitem[Martins et al. 2012]{galvao2013requirements}
+\abntrefinfo{Martins et al.}{MARTINS et al.}{2012}
+{MARTINS, L.~E. G. et al. Desenvolvimento de um protótipo de bomba de infusão
+  de insulina de baixo custo: em busca de uma alternativa para a população de
+  baixa renda portadora de diabetes.
+Projeto submetido ao MCTI, 2012.}
+
 \bibitem[{MIKROELETRONIKA} 2006]{mikroc2006}
 \abntrefinfo{{MIKROELETRONIKA}}{{MIKROELETRONIKA}}{2006}
 {{MIKROELETRONIKA}. \emph{MikroC Making it Simple User's Manual}.
@@ -89,6 +101,12 @@ Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/www\-.mikroe\-.com\-/pdf\-/mikroc\-/mikroc\underline{\
   }manual\-.pdf$>$}{http://www.mikroe.com/pdf/mikroc/mikroc_manual.pdf}. Acesso
   em: 16.4.2013.}
+
+\bibitem[Minicucci 2008]{minicucci2008uso}
+\abntrefinfo{Minicucci}{MINICUCCI}{2008}
+{MINICUCCI, W.~J. Uso de bomba de infus{\~a}o subcut{\^a}nea de insulina e suas
+  indica{\c{c}}{\~o}es:[revis{\~a}o].
+\emph{Arq. bras. endocrinol. metab}, v.~52, n.~2, p. 340--348, 2008.}
 
 \bibitem[{NOMADSUSP} 2012]{nomadusp2014}
 \abntrefinfo{{NOMADSUSP}}{{NOMADSUSP}}{2012}
@@ -130,10 +148,9 @@ Dispon{\'\i}vel em:
 {SANTOS, V.~P. de A. Motor de passo.
 2008.}
 
-\bibitem[{Sociedade Brasileira de Diabetes} 2014]{sbc2014}
-\abntrefinfo{{Sociedade Brasileira de Diabetes}}{{Sociedade Brasileira de
-  Diabetes}}{2014}
-{{Sociedade Brasileira de Diabetes}. \emph{Tudo sobre diabetes}. 2014.
+\bibitem[{SBC} 2014]{sbc2014}
+\abntrefinfo{{SBC}}{{SBC}}{2014}
+{{SBC}. \emph{Tudo sobre diabetes}. 2014.
 Acessado em 20/05/2014.
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/www\-.diabetes\-.org\-.br$>$}{http://www.diabetes.org.br}.}
@@ -174,5 +191,12 @@ Dispon{\'\i}vel em:
 Acessado em 06/03/2013.
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/en\-.wikipedia\-.org\-/wiki\-/SPICE$>$}{http://en.wikipedia.org/wiki/SPICE}.}
+
+\bibitem[Zhang, Jones e Jetley 2010]{zhang2010hazard}
+\abntrefinfo{Zhang, Jones e Jetley}{ZHANG; JONES; JETLEY}{2010}
+{ZHANG, Y.; JONES, P.~L.; JETLEY, R. A hazard analysis for a generic insulin
+  infusion pump.
+\emph{Journal of diabetes science and technology}, SAGE Publications, v.~4,
+  n.~2, p. 263--283, 2010.}
 
 \end{thebibliography}
