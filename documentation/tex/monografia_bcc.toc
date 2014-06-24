@@ -30,16 +30,21 @@
 \contentsline {section}{\numberline {6.2}Caracter\IeC {\'\i }sticas gerais da bomba de infus\IeC {\~a}o}{47}{section.6.2}
 \contentsline {section}{\numberline {6.3}Aspectos de seguran\IeC {\c c}a da bomba de infus\IeC {\~a}o}{49}{section.6.3}
 \contentsline {section}{\numberline {6.4}Requisitos da bomba de infus\IeC {\~a}o}{51}{section.6.4}
-\contentsline {chapter}{\chapternumberline {7}Revis\IeC {\~a}o Bibliogr\IeC {\'a}fica}{55}{chapter.7}
-\contentsline {section}{\numberline {7.1}Introdu\IeC {\c c}\IeC {\~a}o}{55}{section.7.1}
-\contentsline {chapter}{\chapternumberline {8}Resultados}{57}{chapter.8}
-\contentsline {chapter}{\chapternumberline {9}Conclus\IeC {\~a}o}{59}{chapter.9}
-\contentsline {chapter}{Refer\^encias}{61}{section*.14}
+\contentsline {chapter}{\chapternumberline {7}M\IeC {\'o}dulo de controle de infus\IeC {\~a}o de insulina}{55}{chapter.7}
+\contentsline {section}{\numberline {7.1}\emph {OOC - \emph {Object Orientated Programming in ANSI-C}}}{55}{section.7.1}
+\contentsline {section}{\numberline {7.2}\emph {Design Patterns}}{55}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Usos de \emph {Design Patterns}}{56}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}\emph {Factory Method}}{56}{subsection.7.2.2}
+\contentsline {chapter}{\chapternumberline {8}Revis\IeC {\~a}o Bibliogr\IeC {\'a}fica}{59}{chapter.8}
+\contentsline {section}{\numberline {8.1}Introdu\IeC {\c c}\IeC {\~a}o}{59}{section.8.1}
+\contentsline {chapter}{\chapternumberline {9}Resultados}{61}{chapter.9}
+\contentsline {chapter}{\chapternumberline {10}Conclus\IeC {\~a}o}{63}{chapter.10}
+\contentsline {chapter}{Refer\^encias}{65}{section*.14}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\contentsline {part}{Ap\^endices}{63}{section*.15}
-\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo de Ap\IeC {\^e}ndice}{65}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice}{67}{appendix.B}
+\contentsline {part}{Ap\^endices}{69}{section*.15}
+\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo de Ap\IeC {\^e}ndice}{71}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice}{73}{appendix.B}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
-\contentsline {part}{Anexos}{69}{section*.16}
-\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo do Anexo}{71}{appendix.anexochapback.1}
+\contentsline {part}{Anexos}{75}{section*.16}
+\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo do Anexo}{77}{appendix.anexochapback.1}

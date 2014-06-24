@@ -155,6 +155,16 @@ Acessado em 20/05/2014.
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/www\-.diabetes\-.org\-.br$>$}{http://www.diabetes.org.br}.}
 
+\bibitem[Schreiner 1993]{schreiner1993object}
+\abntrefinfo{Schreiner}{SCHREINER}{1993}
+{SCHREINER, A.-T. Object oriented programming with ansi-c.
+Hanser, 1993.}
+
+\bibitem[Shalloway e Trott 2004]{shalloway2004design}
+\abntrefinfo{Shalloway e Trott}{SHALLOWAY; TROTT}{2004}
+{SHALLOWAY, A.; TROTT, J.~R. \emph{Design patterns explained: a new perspective
+  on object-oriented design}. [S.l.]: Pearson Education, 2004.}
+
 \bibitem[Sommerville 2004]{sommerville2004software}
 \abntrefinfo{Sommerville}{SOMMERVILLE}{2004}
 {SOMMERVILLE, I. \emph{Software Engineering. International computer science
