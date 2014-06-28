@@ -91,6 +91,15 @@ Esse módulo é responsável pelo isolamento do \emph{display} de LCD do resto d
 
 \subsection{Módulo Menu}
 
+O módulo de menu foi criado para abstrair todos as possíveis situações e estados da bomba. Foi criado de uma forma muito simples e é equivalente a uma máquina de estado. Utiliza uma "inteface" que é implementado por todos os tipos de menu existentes como: menu de confuguração da bomba, menu da bomba em execução, menu de confirmação do estado do reservatório e outros. A Figura \ref{fig:classemenu} representa as relações entre os componentes, ou "classes", do módulo e demonstra como é simples a criação de novos menus.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=1]{images/classe_menu.png}
+	\caption{Diagrama de classe Menu}	
+	\label{fig:deamalcd}
+\end{figure}
+
 \subsection{Módulo Motor}
 
 \subsection{Módulo TimerMotor}
