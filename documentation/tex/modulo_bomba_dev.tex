@@ -42,7 +42,7 @@ Esse \emph{Design Patterns} foi utilizado no módulo que faz uso do \emph{displa
 	\cite{shalloway2004design}
 \end{figure}
 
-\subsection{Arquitetura do Software}
+\section{Arquitetura do Software}
 
 O \emph{Software} foi desenvolvido de forma modular para que as funções fossem facilmente testadas, modificadas e evoulídas, a Figura \ref{fig:arquiteturageral} representa a estrutura citada. A divisão do \emph{Software} foi feita da seguinte forma: config, insulimpump, lcd, menu, motor, timerMotor e principal. 
 
@@ -53,9 +53,9 @@ O \emph{Software} foi desenvolvido de forma modular para que as funções fossem
 	\label{fig:arquiteturageral}
 \end{figure}
 
-\subsubsection{Módulo config}
+\subsection{Módulo Config}
 
-Módulo feito para centralizar todas as configurações do sistema. Seguindo parte do conceito de OOC, pois foi possícel utilizar a ideia de \emph{private} e \emph{public} para as variáveis. Entretanto não foi criada nenhuma struct de forma que representasse uma classe. A Figura \ref{driagramaclasseconfig} representa o driagrama de classe desse módulo.
+Módulo feito para centralizar todas as configurações do sistema, utilizado, basicamente, por quase todos os demais módulos. Seguindo parte do conceito de OOC, pois foi possícel utilizar a ideia de \emph{private} e \emph{public} para as variáveis. Entretanto não foi criada nenhuma struct de forma que representasse uma classe. A Figura \ref{fig:driagramaclasseconfig} representa o driagrama de classe desse módulo.
 
 
 \begin{figure}[htp]
@@ -67,3 +67,32 @@ Módulo feito para centralizar todas as configurações do sistema. Seguindo par
 
 Quando se diz \emph{private} e \emph{public} é o fato de adicionar as variáveis no arquivo GlobalConfig.h, \emph{private}, ou GlobalConfig.c, \emph{public}. A principal parâmetrização desse módulo é a quantidade que o repositório de insulina suporta. Para modifical seu valor basta alterar o \emph{define} QUANTIDADE\_TOTAL\_RESERVATORIO\_INSULINA. Esse valor representa a quantidade de insulina existente no reservarótio na escala da infusão mínima da bomba.
 
+\subsection{Módulo InsulimPump}
+
+O módulo InsulinPump é responsável pela a bstração das funções da bomba para o resto do sitema. Funções simples para o resto do sistema como: inicializar variáveis de controle, iniciar operação, para operação (principalmente para configurações da bomba), injetar e retornar a quantidade inseriada naquela hora. Seguindo o conceito OOC foi criada uma "ïnterface", IInsulinPump, e a "classe" concreta InsulinPump. A Figura \ref{fig:diagramainsulinpump} representa a relação e diagrama de classe dos elementos citados anteriormente.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=1]{images/classe_insulinpump.png}
+	\caption{Diagrama de classe InsulinPump}	
+	\label{fig:diagramainsulinpump}
+\end{figure}
+
+\subsection{Módulo Lcd}
+
+Esse módulo é responsável pelo isolamento do \emph{display} de LCD do resto do sistema. Composto por um factory, que retorna um obeto de controle de acordo com o parâmetro passado, uma "interface" para possibilitar essa abstração e as classes concretas, no caso existe apenas a classe concreta para display 2x16(2 linhas por 16 colunas). A Figura \ref{fig:diagramalcd} representa a relação e diagrama de classe dos elementos citados anteriormente.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=0.8]{images/classe_lcd.png}
+	\caption{Diagrama de classe Lcd}	
+	\label{fig:diagramalcd}
+\end{figure}
+
+\subsection{Módulo Menu}
+
+\subsection{Módulo Motor}
+
+\subsection{Módulo TimerMotor}
+
+\subsection{Módulo Principal}

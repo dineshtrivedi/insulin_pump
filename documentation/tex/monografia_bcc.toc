@@ -36,15 +36,21 @@
 \contentsline {section}{\numberline {7.2}\emph {Design Patterns}}{55}{section.7.2}
 \contentsline {subsection}{\numberline {7.2.1}Usos de \emph {Design Patterns}}{56}{subsection.7.2.1}
 \contentsline {subsection}{\numberline {7.2.2}\emph {Factory Method}}{56}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}Arquitetura do Software}{58}{subsection.7.2.3}
-\contentsline {subsubsection}{\numberline {7.2.3.1}M\IeC {\'o}dulo config}{59}{subsubsection.7.2.3.1}
-\contentsline {chapter}{\chapternumberline {8}Conclus\IeC {\~a}o}{61}{chapter.8}
-\contentsline {chapter}{Refer\^encias}{63}{section*.14}
+\contentsline {section}{\numberline {7.3}Arquitetura do Software}{58}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}M\IeC {\'o}dulo Config}{59}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}M\IeC {\'o}dulo InsulimPump}{59}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.3}M\IeC {\'o}dulo Lcd}{60}{subsection.7.3.3}
+\contentsline {subsection}{\numberline {7.3.4}M\IeC {\'o}dulo Menu}{61}{subsection.7.3.4}
+\contentsline {subsection}{\numberline {7.3.5}M\IeC {\'o}dulo Motor}{61}{subsection.7.3.5}
+\contentsline {subsection}{\numberline {7.3.6}M\IeC {\'o}dulo TimerMotor}{61}{subsection.7.3.6}
+\contentsline {subsection}{\numberline {7.3.7}M\IeC {\'o}dulo Principal}{61}{subsection.7.3.7}
+\contentsline {chapter}{\chapternumberline {8}Conclus\IeC {\~a}o}{63}{chapter.8}
+\contentsline {chapter}{Refer\^encias}{65}{section*.14}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\contentsline {part}{Ap\^endices}{67}{section*.15}
-\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo de Ap\IeC {\^e}ndice}{69}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice}{71}{appendix.B}
+\contentsline {part}{Ap\^endices}{69}{section*.15}
+\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo de Ap\IeC {\^e}ndice}{71}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice}{73}{appendix.B}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
-\contentsline {part}{Anexos}{73}{section*.16}
-\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo do Anexo}{75}{appendix.anexochapback.1}
+\contentsline {part}{Anexos}{75}{section*.16}
+\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo do Anexo}{77}{appendix.anexochapback.1}
