@@ -32,7 +32,7 @@ Segundo \cite{shalloway2004design}, \emph{factory method} foi um dos \emph{Desig
 \item Operador \emph{new} é considerado perigoso.
 \end{itemize}
 
-Esse \emph{Design Patterns} foi utilizado no módulo que faz uso do \emph{display} de LCD para que a troca de seu tipo ficasse isolado do restante do sistema e que um futura troca possa ser feita com o menor impacto possível. A Figura \ref{fig:factorymethod} representa sua etsrutura em UML.
+Esse \emph{Design Patterns} foi utilizado no módulo que faz uso do \emph{display} de LCD para que a troca de seu tipo ficasse isolado do restante do sistema e que um futura troca possa ser feita com o menor impacto possível. A Figura \ref{fig:factorymethod} representa sua etsrutura em UML. \newpage
 
 \begin{figure}[htp]
 	\centering
@@ -41,3 +41,29 @@ Esse \emph{Design Patterns} foi utilizado no módulo que faz uso do \emph{displa
 	\label{fig:factorymethod}
 	\cite{shalloway2004design}
 \end{figure}
+
+\subsection{Arquitetura do Software}
+
+O \emph{Software} foi desenvolvido de forma modular para que as funções fossem facilmente testadas, modificadas e evoulídas, a Figura \ref{fig:arquiteturageral} representa a estrutura citada. A divisão do \emph{Software} foi feita da seguinte forma: config, insulimpump, lcd, menu, motor, timerMotor e principal. 
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=0.7]{images/arquitetura.png}
+	\caption{Estrutura do \emph{Software}}	
+	\label{fig:arquiteturageral}
+\end{figure}
+
+\subsubsection{Módulo config}
+
+Módulo feito para centralizar todas as configurações do sistema. Seguindo parte do conceito de OOC, pois foi possícel utilizar a ideia de \emph{private} e \emph{public} para as variáveis. Entretanto não foi criada nenhuma struct de forma que representasse uma classe. A Figura \ref{driagramaclasseconfig} representa o driagrama de classe desse módulo.
+
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=1]{images/classe_GlobalConfig.png}
+	\caption{Diagrama de classe GlobalConfig}	
+	\label{fig:driagramaclasseconfig}
+\end{figure}
+
+Quando se diz \emph{private} e \emph{public} é o fato de adicionar as variáveis no arquivo GlobalConfig.h, \emph{private}, ou GlobalConfig.c, \emph{public}. A principal parâmetrização desse módulo é a quantidade que o repositório de insulina suporta. Para modifical seu valor basta alterar o \emph{define} QUANTIDADE\_TOTAL\_RESERVATORIO\_INSULINA. Esse valor representa a quantidade de insulina existente no reservarótio na escala da infusão mínima da bomba.
+
