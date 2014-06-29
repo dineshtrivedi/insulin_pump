@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  28 JUN 2014 21:12
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  28 JUN 2014 21:19
 entering extended mode
 **monografia_bcc.tex
 
@@ -1318,33 +1318,34 @@ Package pdftex.def Info: images/classe_timer_motor.png used on input line 121.
 ) [62 <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation/tex/images/
 classe_motor.png> <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation
 /tex/images/classe_timer_motor.png>]
+[63] [64
+
+]
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
 c.bbl
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
 c.brf)
 \tf@brf=\write5
- [63
-
-] [64
+ [65] [66
 
 ]
 bibitemlist
-[65] [66]) [67] [68
+[67] [68]) [69] [70
 
-] [69
+] [71
 
-] [70] [71
+] [72] [73
 
-] [72
+] [74
 
-] [73] [74
+] [75] [76
 
-] [75
+] [77
 
-] [76]
+] [78]
 
 AED: lastpage setting LastPage
-[77
+[79
 
 ]
 \tf@lof=\write6
@@ -1366,8 +1367,8 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 436.
  ) 
 Here is how much of TeX's memory you used:
- 11694 strings out of 493921
- 171943 string characters out of 3147279
+ 11696 strings out of 493921
+ 171957 string characters out of 3147279
  283945 words of memory out of 3000000
  14505 multiletter control sequences out of 15000+200000
  71278 words of font info for 74 fonts, out of 3000000 for 9000
@@ -1383,9 +1384,9 @@ Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on monografia_bcc.pdf (79 pages, 1961815 bytes).
+Output written on monografia_bcc.pdf (81 pages, 1963295 bytes).
 PDF statistics:
- 1080 PDF objects out of 1200 (max. 8388607)
- 214 named destinations out of 1000 (max. 500000)
+ 1088 PDF objects out of 1200 (max. 8388607)
+ 216 named destinations out of 1000 (max. 500000)
  650 words of extra memory for PDF output out of 10000 (max. 10000000)
 

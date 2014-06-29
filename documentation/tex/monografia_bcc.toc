@@ -44,13 +44,13 @@
 \contentsline {subsection}{\numberline {7.3.5}M\IeC {\'o}dulo Motor}{61}{subsection.7.3.5}
 \contentsline {subsection}{\numberline {7.3.6}M\IeC {\'o}dulo TimerMotor}{62}{subsection.7.3.6}
 \contentsline {subsection}{\numberline {7.3.7}M\IeC {\'o}dulo Principal}{62}{subsection.7.3.7}
-\contentsline {chapter}{\chapternumberline {8}Conclus\IeC {\~a}o}{63}{chapter.8}
-\contentsline {chapter}{Refer\^encias}{65}{section*.14}
+\contentsline {chapter}{\chapternumberline {8}Conclus\IeC {\~a}o}{65}{chapter.8}
+\contentsline {chapter}{Refer\^encias}{67}{section*.14}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\contentsline {part}{Ap\^endices}{69}{section*.15}
-\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo de Ap\IeC {\^e}ndice}{71}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice}{73}{appendix.B}
+\contentsline {part}{Ap\^endices}{71}{section*.15}
+\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo de Ap\IeC {\^e}ndice}{73}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice}{75}{appendix.B}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
-\contentsline {part}{Anexos}{75}{section*.16}
-\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo do Anexo}{77}{appendix.anexochapback.1}
+\contentsline {part}{Anexos}{77}{section*.16}
+\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo do Anexo}{79}{appendix.anexochapback.1}

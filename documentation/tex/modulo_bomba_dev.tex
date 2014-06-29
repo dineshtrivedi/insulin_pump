@@ -125,3 +125,5 @@ O módulo TimerMotor armazena todos os dados do contador para o uso dos motores.
 
 
 \subsection{Módulo Principal}
+
+Devido a forma modular com  que foi implementado o sistema esse tornou-se o módulo mais simples. Ficou responsável apenas pela interrupção, específico do hardware, chamar os métodos de incialização dos módulos do lcd, TimerMotor e InsulinPump, e um loop principal, extremamente simples, que exibe o Menu, correspondente ao estado atual, e recebe o retorno do próprio menu em questão para navegar entre os menus existente.
