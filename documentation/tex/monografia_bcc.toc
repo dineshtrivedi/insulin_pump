@@ -36,14 +36,15 @@
 \contentsline {section}{\numberline {7.2}\emph {Design Patterns}}{55}{section.7.2}
 \contentsline {subsection}{\numberline {7.2.1}Usos de \emph {Design Patterns}}{56}{subsection.7.2.1}
 \contentsline {subsection}{\numberline {7.2.2}\emph {Factory Method}}{56}{subsection.7.2.2}
-\contentsline {section}{\numberline {7.3}Arquitetura do Software}{58}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}M\IeC {\'o}dulo Config}{59}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}M\IeC {\'o}dulo InsulimPump}{59}{subsection.7.3.2}
-\contentsline {subsection}{\numberline {7.3.3}M\IeC {\'o}dulo Lcd}{60}{subsection.7.3.3}
-\contentsline {subsection}{\numberline {7.3.4}M\IeC {\'o}dulo Menu}{61}{subsection.7.3.4}
-\contentsline {subsection}{\numberline {7.3.5}M\IeC {\'o}dulo Motor}{61}{subsection.7.3.5}
-\contentsline {subsection}{\numberline {7.3.6}M\IeC {\'o}dulo TimerMotor}{62}{subsection.7.3.6}
-\contentsline {subsection}{\numberline {7.3.7}M\IeC {\'o}dulo Principal}{62}{subsection.7.3.7}
+\contentsline {section}{\numberline {7.3}Proteus}{58}{section.7.3}
+\contentsline {section}{\numberline {7.4}Arquitetura do Software}{59}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}M\IeC {\'o}dulo Config}{59}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}M\IeC {\'o}dulo InsulimPump}{59}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}M\IeC {\'o}dulo Lcd}{61}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.4}M\IeC {\'o}dulo Menu}{61}{subsection.7.4.4}
+\contentsline {subsection}{\numberline {7.4.5}M\IeC {\'o}dulo Motor}{61}{subsection.7.4.5}
+\contentsline {subsection}{\numberline {7.4.6}M\IeC {\'o}dulo TimerMotor}{62}{subsection.7.4.6}
+\contentsline {subsection}{\numberline {7.4.7}M\IeC {\'o}dulo Principal}{63}{subsection.7.4.7}
 \contentsline {chapter}{\chapternumberline {8}Conclus\IeC {\~a}o}{65}{chapter.8}
 \contentsline {chapter}{Refer\^encias}{67}{section*.14}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
