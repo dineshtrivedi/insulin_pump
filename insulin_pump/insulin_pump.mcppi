@@ -6,7 +6,7 @@ Value=-1
 [BUILD_TYPE]
 Value=0
 [ACTIVE_TAB]
-Value=src\insulinPump\InsulinPump.c
+Value=src\Motor\MotorProteus\MotorProteus.c
 [USE_EEPROM]
 Value=0
 [USE_HEAP]
@@ -35,13 +35,12 @@ Count=0
 Count=0
 ActiveImageIndex=-1
 [OPENED_FILES]
-Count=6
-File0=insulin_pump.c
+Count=5
+File0=src\Motor\MotorPassoFactory.c
 File1=src\Motor\MotorProteus\MotorProteus.c
-File2=src\insulinPump\InsulinPump.c
-File3=src\config\GlobalConfig.c
-File4=src\insulinPump\IInsulinPump.h
-File5=src\menu\MenuExecutando.c
+File2=src\Motor\IMotorPasso.h
+File3=src\Motor\MotorPassoFactory.h
+File4=src\Motor\MotorProteus\MotorProteus.h
 [EEPROM]
 Count=0
 [ACTIVE_COMMENTS_FILES]

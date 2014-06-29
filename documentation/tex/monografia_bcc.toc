@@ -42,8 +42,8 @@
 \contentsline {subsection}{\numberline {7.3.3}M\IeC {\'o}dulo Lcd}{60}{subsection.7.3.3}
 \contentsline {subsection}{\numberline {7.3.4}M\IeC {\'o}dulo Menu}{61}{subsection.7.3.4}
 \contentsline {subsection}{\numberline {7.3.5}M\IeC {\'o}dulo Motor}{61}{subsection.7.3.5}
-\contentsline {subsection}{\numberline {7.3.6}M\IeC {\'o}dulo TimerMotor}{61}{subsection.7.3.6}
-\contentsline {subsection}{\numberline {7.3.7}M\IeC {\'o}dulo Principal}{61}{subsection.7.3.7}
+\contentsline {subsection}{\numberline {7.3.6}M\IeC {\'o}dulo TimerMotor}{62}{subsection.7.3.6}
+\contentsline {subsection}{\numberline {7.3.7}M\IeC {\'o}dulo Principal}{62}{subsection.7.3.7}
 \contentsline {chapter}{\chapternumberline {8}Conclus\IeC {\~a}o}{63}{chapter.8}
 \contentsline {chapter}{Refer\^encias}{65}{section*.14}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }

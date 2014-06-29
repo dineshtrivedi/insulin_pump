@@ -1,7 +1,7 @@
 #include "MotorProteus.h"
 
 const char TAMANHO_COMBINACAO_ACIONAMENTO = 8;
-const char TEMPO_DEFAULT_PASSO_MS = 500;
+const int TEMPO_DEFAULT_PASSO_MS = 500;
 
 char configureMotorProteus();
 char writeMotorProteus( int qtdePasso );

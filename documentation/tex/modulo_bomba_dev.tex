@@ -97,11 +97,31 @@ O módulo de menu foi criado para abstrair todos as possíveis situações e est
 	\centering
 	\includegraphics[scale=1]{images/classe_menu.png}
 	\caption{Diagrama de classe Menu}	
-	\label{fig:deamalcd}
+	\label{fig:classemenu}
 \end{figure}
 
 \subsection{Módulo Motor}
 
+O módulo motor, tem como resposabilidade abstrair todas as operações necessárias para o controle do motor de forma que o resto do sistema não saiba qual motor está utilizando. Isso é possível devido a "interface" criada para abstração e o uso de um \emph{Factory} que retorna o motor que deve ser utilizado de acordo com um parâmetro global, localizado no módulo config. A figura \ref{fig:classemotor} representa as relações existentes nesse módulo. \newpage
+
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=1]{images/classe_motor.png}
+	\caption{Diagrama de classe Motor}	
+	\label{fig:classemotor}
+\end{figure}
+
 \subsection{Módulo TimerMotor}
+
+O módulo TimerMotor armazena todos os dados do contador para o uso dos motores. Abstrai a configuração do timer em função do \emph{hardware} para o resto do sistema. Dessa forma o sistema só precisa se preocupar em: fazer configuração inicial(inicializar variáveis), iniciar timer, parar timer. A Figura \ref{fig:classe_timer_motor} representa a relação citada acima.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[scale=1]{images/classe_timer_motor.png}
+	\caption{Diagrama de classe TimerMotoror}	
+	\label{fig:classe_timer_motor}
+\end{figure}
+
 
 \subsection{Módulo Principal}
