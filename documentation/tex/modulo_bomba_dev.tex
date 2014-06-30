@@ -66,7 +66,7 @@ O \emph{Software} foi desenvolvido de forma modular para que as funções fossem
 
 \subsection{Módulo Config}
 
-Módulo feito para centralizar todas as configurações do sistema, utilizado, basicamente, por quase todos os demais módulos. Seguindo parte do conceito de OOC, pois foi possícel utilizar a ideia de \emph{private} e \emph{public} para as variáveis. Entretanto não foi criada nenhuma struct de forma que representasse uma classe. A Figura \ref{fig:driagramaclasseconfig} representa o driagrama de classe desse módulo.
+Módulo feito para centralizar todas as configurações do sistema, utilizado, basicamente, por quase todos os demais módulos. Seguindo parte do conceito de OOC, pois foi possícel utilizar a ideia de \emph{private} e \emph{public} para as variáveis. Entretanto não foi criada nenhuma struct de forma que representasse uma classe. A Figura \ref{fig:driagramaclasseconfig} representa o driagrama de classe desse módulo. \newpage
 
 
 \begin{figure}[htp]
@@ -78,7 +78,7 @@ Módulo feito para centralizar todas as configurações do sistema, utilizado, b
 
 Quando se diz \emph{private} e \emph{public} é o fato de adicionar as variáveis no arquivo GlobalConfig.h, \emph{private}, ou GlobalConfig.c, \emph{public}. A principal parâmetrização desse módulo é a quantidade que o repositório de insulina suporta. Para modifical seu valor basta alterar o \emph{define} QUANTIDADE\_TOTAL\_RESERVATORIO\_INSULINA. Esse valor representa a quantidade de insulina existente no reservarótio na escala da infusão mínima da bomba.
 
-\subsection{Módulo InsulimPump}
+\subsection{Módulo InsulinPump}
 
 O módulo InsulinPump é responsável pela a bstração das funções da bomba para o resto do sitema. Funções simples para o resto do sistema como: inicializar variáveis de controle, iniciar operação, para operação (principalmente para configurações da bomba), injetar e retornar a quantidade inseriada naquela hora. Seguindo o conceito OOC foi criada uma "ïnterface", IInsulinPump, e a "classe" concreta InsulinPump. A Figura \ref{fig:diagramainsulinpump} representa a relação e diagrama de classe dos elementos citados anteriormente.
 
@@ -118,7 +118,7 @@ O módulo motor, tem como resposabilidade abstrair todas as operações necessá
 
 \begin{figure}[htp]
 	\centering
-	\includegraphics[scale=1]{images/classe_motor.png}
+	\includegraphics[scale=0.8]{images/classe_motor.png}
 	\caption{Diagrama de classe Motor}	
 	\label{fig:classemotor}
 \end{figure}

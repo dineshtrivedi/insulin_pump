@@ -26,11 +26,13 @@
 \contentsline {figure}{\numberline {18}{\ignorespaces \emph {Software} Proteus}}{58}{figure.7.18}
 \contentsline {figure}{\numberline {19}{\ignorespaces Estrutura do \emph {Software}}}{59}{figure.7.19}
 \contentsline {figure}{\numberline {20}{\ignorespaces Diagrama de classe GlobalConfig}}{60}{figure.7.20}
-\contentsline {figure}{\numberline {21}{\ignorespaces Diagrama de classe InsulinPump}}{60}{figure.7.21}
+\contentsline {figure}{\numberline {21}{\ignorespaces Diagrama de classe InsulinPump}}{61}{figure.7.21}
 \contentsline {figure}{\numberline {22}{\ignorespaces Diagrama de classe Lcd}}{61}{figure.7.22}
 \contentsline {figure}{\numberline {23}{\ignorespaces Diagrama de classe Menu}}{62}{figure.7.23}
-\contentsline {figure}{\numberline {24}{\ignorespaces Diagrama de classe Motor}}{62}{figure.7.24}
+\contentsline {figure}{\numberline {24}{\ignorespaces Diagrama de classe Motor}}{63}{figure.7.24}
 \contentsline {figure}{\numberline {25}{\ignorespaces Diagrama de classe TimerMotoror}}{63}{figure.7.25}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {26}{\ignorespaces Testes relizados e as rela\IeC {\c c}\IeC {\~o}es de divis\IeC {\~a}o}}{66}{figure.8.26}
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}

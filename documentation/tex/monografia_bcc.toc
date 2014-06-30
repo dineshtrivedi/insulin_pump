@@ -39,19 +39,23 @@
 \contentsline {section}{\numberline {7.3}Proteus}{58}{section.7.3}
 \contentsline {section}{\numberline {7.4}Arquitetura do Software}{59}{section.7.4}
 \contentsline {subsection}{\numberline {7.4.1}M\IeC {\'o}dulo Config}{59}{subsection.7.4.1}
-\contentsline {subsection}{\numberline {7.4.2}M\IeC {\'o}dulo InsulimPump}{59}{subsection.7.4.2}
-\contentsline {subsection}{\numberline {7.4.3}M\IeC {\'o}dulo Lcd}{61}{subsection.7.4.3}
-\contentsline {subsection}{\numberline {7.4.4}M\IeC {\'o}dulo Menu}{61}{subsection.7.4.4}
-\contentsline {subsection}{\numberline {7.4.5}M\IeC {\'o}dulo Motor}{61}{subsection.7.4.5}
-\contentsline {subsection}{\numberline {7.4.6}M\IeC {\'o}dulo TimerMotor}{62}{subsection.7.4.6}
+\contentsline {subsection}{\numberline {7.4.2}M\IeC {\'o}dulo InsulinPump}{60}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}M\IeC {\'o}dulo Lcd}{60}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.4}M\IeC {\'o}dulo Menu}{62}{subsection.7.4.4}
+\contentsline {subsection}{\numberline {7.4.5}M\IeC {\'o}dulo Motor}{62}{subsection.7.4.5}
+\contentsline {subsection}{\numberline {7.4.6}M\IeC {\'o}dulo TimerMotor}{63}{subsection.7.4.6}
 \contentsline {subsection}{\numberline {7.4.7}M\IeC {\'o}dulo Principal}{63}{subsection.7.4.7}
-\contentsline {chapter}{\chapternumberline {8}Conclus\IeC {\~a}o}{65}{chapter.8}
-\contentsline {chapter}{Refer\^encias}{67}{section*.14}
+\contentsline {chapter}{\chapternumberline {8}An\IeC {\'a}lise e discuss\IeC {\~a}o dos resultados}{65}{chapter.8}
+\contentsline {section}{\numberline {8.1}Bomba de infus\IeC {\~a}o}{65}{section.8.1}
+\contentsline {section}{\numberline {8.2}Simulador}{66}{section.8.2}
+\contentsline {section}{\numberline {8.3}Arquitetura modularizada}{67}{section.8.3}
+\contentsline {chapter}{\chapternumberline {9}Conclus\IeC {\~a}o}{69}{chapter.9}
+\contentsline {chapter}{Refer\^encias}{71}{section*.14}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\contentsline {part}{Ap\^endices}{71}{section*.15}
-\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo de Ap\IeC {\^e}ndice}{73}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice}{75}{appendix.B}
+\contentsline {part}{Ap\^endices}{75}{section*.15}
+\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo de Ap\IeC {\^e}ndice}{77}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice}{79}{appendix.B}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
-\contentsline {part}{Anexos}{77}{section*.16}
-\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo do Anexo}{79}{appendix.anexochapback.1}
+\contentsline {part}{Anexos}{81}{section*.16}
+\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo do Anexo}{83}{appendix.anexochapback.1}
