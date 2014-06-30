@@ -1,6 +1,7 @@
 \chapter{Análise e discussão dos resultados}
 
 \section{Bomba de infusão}
+\label{sec:secao_analise_bomba}
 O desenvolvimento desse sistema foi dividido em algumas partes: cálculo do intervalo de tempo entre infusões basais e cálculo dos passos necessários. O cálculo do intervalo de tempo entre as infusões basais é executado após a inicialização da bomba, desde que já exista um prévia configuração da quantidade de insulina para a hora em questão. Essa funcionalidade tem a responsabilidade de injetar a quantidade de insulina de forma continua, ou seja, caso a bomba seja desligada não haverá alteração na taxa de injeção para compensar o tempo parado. Testes foram realizados, sem interrupções, levando em conta que a quantidade de infusão mínima é de 0,1 unidades de insulina. A Figura \ref{fig:testeinsulina} representa o resultados dos cálculos e quantidade de insulina injetada.
 
 O objetivo desse teste é verificar o número de infusões de quantidade mínima de insulina que a bomba deveria executar e número de infusões que a bomba efetivamente executou. De acordo com a quantidade de insulina requerida para cada hora. Os testes realizados tiveram duas situações distintas, quando feita a divisão da quantidade de tempo (em segundos) da hora corrente pela quantidade de infusões basais necessárias:
