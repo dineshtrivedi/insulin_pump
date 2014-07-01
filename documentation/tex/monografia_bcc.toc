@@ -51,11 +51,3 @@
 \contentsline {section}{\numberline {8.3}Arquitetura modularizada}{67}{section.8.3}
 \contentsline {chapter}{\chapternumberline {9}Conclus\IeC {\~a}o}{69}{chapter.9}
 \contentsline {chapter}{Refer\^encias}{71}{section*.14}
-\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\contentsline {part}{Ap\^endices}{75}{section*.15}
-\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo de Ap\IeC {\^e}ndice}{77}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}T\IeC {\'\i }tulo do Ap\IeC {\^e}ndice}{79}{appendix.B}
-\cftinsert {AAA}
-\renewcommand *{\cftappendixname }{ANEXO \space }
-\contentsline {part}{Anexos}{81}{section*.16}
-\contentsline {appendix}{\chapternumberline {A}T\IeC {\'\i }tulo do Anexo}{83}{appendix.anexochapback.1}

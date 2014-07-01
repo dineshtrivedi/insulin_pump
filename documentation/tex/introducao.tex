@@ -65,7 +65,22 @@ Em segundo plano este trabalho foca em:
 \end{itemize}
 
 \section{PROCEDIMENTOS METODOLÓGICOS}
-\todo{REVISAR QUANDO TERMINAR}\newline
-Como todo trabalho de pesquisa, foi iniciado com o levantamento bibliográfico sobre o tema escolhido para que então seja feito uma leitura e análise desses materiais a fim de entender melhor sobre as dificuldades e possíveis formas de desenvolvimento. A elaboração da fundamentação teórica consiste nos assuntos: Microcontroladores – a base de nossa arquitetura e recursos de desenvolvimento –, PIC – plataforma escolhida para o desenvolvimento –, Motor de passo – responsável pela dinâmica da bomba –, e, por último, display de LCD – responsável por mostrar dados e estados da bomba em funcionamento.
-Entendendo todos os conceitos citados o próximo passo deve ser a especificação do projeto de hardware do sistema embarcado, ou seja, qual placa usar, quais periféricos serão necessários, qual motor será utilizada, qual API do PIC utilizar. A simulação e desenvolvimento do hardware serão feitos na ferramenta Proteus, pois possui integração com PIC.
-Tendo todo o hardware definido é necessário levantar os requisitos de software. Para entender o que deve ser desenvolvido e ter uma orientação do próprio desenvolvimento. Com os requisitos em mãos será possível definir a arquitetura do sistema. Para enfim dar inicio a implementação e testes do software. Quando ele tiver uma base concreta daremos inicio a integração com o hardware e validação de seu funcionamento. E por fim levantaremos os indicadores para que seja feita a comparação de desenvolvimento entre as plataformas citadas e poder concluir a pesquisa.
+Este trabalho foi dividido em duas etapas: pesquisa para levantamento de referências bibliográficas e desenvolvimento prático. Durante a primeira etapa, foi feita a pesquisa e levantamento bibliográfico sobre o tema em questão para que fosse possível um melhor entendimento da plataforma, tecnologias e, claro, do problema abordado. Juntamente com essa pesquisa, foi feito um estudo sobre o microcontrolador PIC escolhido, PIC18F452, a partir do material encontrado. O estudo e desenvolvimento foi feito utilizando o compilador MikroC e sua IDE. Seguida houve-se um levantamento de informações sobre sistemas embarcados, sistemas críticos e sistemas críticos de tempo real, e assim adquindo-se conhecimento sobre os conceitos e desenvolimento da área em questão, uma vez que a confiabilidade e segurnça do problema proposto é importantíssimo.
+
+
+O software de controle do protótipo da bomba de infusão de insulina foi desenvolvido na linguagem C, compilado ara o microcontrolador já citado, PIC18F452. O sistema é responsável basicamente por gerenciar os perfel de infusão basal, calcular intervalos corretos e passos necessários para uma infusão. Desta forma, o
+software foi dividido nos seguintes módulos: Config, LCD, InsulinPump, Motor, Menu, TimerMotor e principal. 
+
+Essa divisão por módulos é, e foi, extremamente importante para o desenvolvimento do sistema. Somando-a à um dos conceitos mais importante desse projeto -OOC, \emph{Object-Oriented Programming With ANSI-C} - são as chaves para a facilidade de manutenção, entendimento do código e possível evolução do projeto.
+
+As responsabilidade dos módulos são bem claras e isoladas:
+
+Config: Centralizar configurações gerais do sistema;
+LCD: Abstrair uso do periférico para o resto do sistema;
+InsulimPump: Abstrair funcionamento, requisitos de segurança e outras particularidades da bomba;
+Motor: Abstrai como se controla o motor e qual motor está sendo utilizado para infusão;
+TimerMotor: Separa o gerenciador de tempo das particularidade únicas do hardware e compilador;
+Menu: Facilitar navegação entre menus, simulando máquina de estado;
+Principal: Possui o Loop principal para navegação simples entre os menus existentes.
+
+E, finalizando, após o desenvolvimento, executou-se uma bateria de testes para se o funcionamento da bomba estava sendo de acordo coma forma especificada, levando em conta toda a integração necessária com os periféricos existentes.
