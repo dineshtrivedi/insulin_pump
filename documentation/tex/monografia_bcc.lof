@@ -10,27 +10,28 @@
 \contentsline {figure}{\numberline {7}{\ignorespaces Rela\IeC {\c c}\IeC {\~a}o das interconex\IeC {\~o}es das bobinas}}{35}{figure.2.7}
 \contentsline {figure}{\numberline {8}{\ignorespaces \emph {Stator single stack}}}{36}{figure.2.8}
 \contentsline {figure}{\numberline {9}{\ignorespaces Motor h\IeC {\'\i }brido}}{36}{figure.2.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Tabelas de pinos LCD comum}}{38}{figure.2.10}
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {10}{\ignorespaces PIC18F452}}{44}{figure.5.10}
-\contentsline {figure}{\numberline {11}{\ignorespaces Estrutura Interna PIC18F452}}{44}{figure.5.11}
-\contentsline {figure}{\numberline {12}{\ignorespaces Pinos PIC18F452}}{45}{figure.5.12}
+\contentsline {figure}{\numberline {11}{\ignorespaces PIC18F452}}{44}{figure.5.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Estrutura Interna PIC18F452}}{44}{figure.5.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Pinos PIC18F452}}{45}{figure.5.13}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {13}{\ignorespaces Modelo de contexto da bomba de infus\IeC {\~a}o de insulina}}{51}{figure.6.13}
-\contentsline {figure}{\numberline {14}{\ignorespaces Caso de uso do m\IeC {\'o}dulo de interface com o usu\IeC {\'a}rio}}{52}{figure.6.14}
-\contentsline {figure}{\numberline {15}{\ignorespaces Caso de uso do m\IeC {\'o}dulo de controle de infus\IeC {\~a}o}}{53}{figure.6.15}
-\contentsline {figure}{\numberline {16}{\ignorespaces Caso de uso do m\IeC {\'o}dulo de monitoramento dos sensores}}{54}{figure.6.16}
+\contentsline {figure}{\numberline {14}{\ignorespaces Modelo de contexto da bomba de infus\IeC {\~a}o de insulina}}{51}{figure.6.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Caso de uso do m\IeC {\'o}dulo de interface com o usu\IeC {\'a}rio}}{52}{figure.6.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Caso de uso do m\IeC {\'o}dulo de controle de infus\IeC {\~a}o}}{53}{figure.6.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Caso de uso do m\IeC {\'o}dulo de monitoramento dos sensores}}{54}{figure.6.17}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {17}{\ignorespaces Estrutura do padr\IeC {\~a}o \emph {Factory Method}}}{58}{figure.7.17}
-\contentsline {figure}{\numberline {18}{\ignorespaces \emph {Software} Proteus}}{58}{figure.7.18}
-\contentsline {figure}{\numberline {19}{\ignorespaces Estrutura do \emph {Software}}}{59}{figure.7.19}
-\contentsline {figure}{\numberline {20}{\ignorespaces Diagrama de classe GlobalConfig}}{60}{figure.7.20}
-\contentsline {figure}{\numberline {21}{\ignorespaces Diagrama de classe InsulinPump}}{61}{figure.7.21}
-\contentsline {figure}{\numberline {22}{\ignorespaces Diagrama de classe Lcd}}{61}{figure.7.22}
-\contentsline {figure}{\numberline {23}{\ignorespaces Diagrama de classe Menu}}{62}{figure.7.23}
-\contentsline {figure}{\numberline {24}{\ignorespaces Diagrama de classe Motor}}{63}{figure.7.24}
-\contentsline {figure}{\numberline {25}{\ignorespaces Diagrama de classe TimerMotoror}}{63}{figure.7.25}
+\contentsline {figure}{\numberline {18}{\ignorespaces Estrutura do padr\IeC {\~a}o \emph {Factory Method}}}{58}{figure.7.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces \emph {Software} Proteus}}{58}{figure.7.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces Estrutura do \emph {Software}}}{59}{figure.7.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces Diagrama de classe GlobalConfig}}{60}{figure.7.21}
+\contentsline {figure}{\numberline {22}{\ignorespaces Diagrama de classe InsulinPump}}{61}{figure.7.22}
+\contentsline {figure}{\numberline {23}{\ignorespaces Diagrama de classe Lcd}}{61}{figure.7.23}
+\contentsline {figure}{\numberline {24}{\ignorespaces Diagrama de classe Menu}}{62}{figure.7.24}
+\contentsline {figure}{\numberline {25}{\ignorespaces Diagrama de classe Motor}}{63}{figure.7.25}
+\contentsline {figure}{\numberline {26}{\ignorespaces Diagrama de classe TimerMotoror}}{63}{figure.7.26}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {26}{\ignorespaces Testes relizados e as rela\IeC {\c c}\IeC {\~o}es de divis\IeC {\~a}o}}{66}{figure.8.26}
+\contentsline {figure}{\numberline {27}{\ignorespaces Testes relizados e as rela\IeC {\c c}\IeC {\~o}es de divis\IeC {\~a}o}}{66}{figure.8.27}
 \addvspace {10pt}
