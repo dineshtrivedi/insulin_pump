@@ -1,5 +1,5 @@
 \chapter{Introdução}
-A Diabetes Melito é uma doença que surge quando o organismo deixa de produzir insulina ou quando a essa passa a não atuar com a mesma eficácia. Atualmente existe duas classificações para ela: Diabetes Melito tipo 1 e 2. A primeira se caracteriza por ser autoimune que lesa, de forma irreversível, as células do pâncreas, produtoras de insulina e conhecidas como células beta, e seu diagnóstico se dá durante a infância do portador. Enquanto a segunda é consequência da resistência do próprio organismo contra as ações da insulina, o principal fator para se desenvolver essa resistência é a obesidade\cite{portaldiabetes2008}.
+A Diabetes Melito é uma doença que surge quando o organismo deixa de produzir insulina ou quando essa passa a não atuar com a mesma eficácia. Atualmente existe duas classificações para ela: Diabetes Melito tipo 1 e 2. A primeira se caracteriza por ser autoimune que lesa, de forma irreversível, as células do pâncreas, produtoras de insulina e conhecidas como células beta, e seu diagnóstico se dá durante a infância do portador. Enquanto a segunda é consequência da resistência do próprio organismo contra as ações da insulina, o principal fator para se desenvolver essa resistência é a obesidade\cite{portaldiabetes2008}.
 Bomba de infusão de insulina é um pequeno aparelho eletrônico, do tamanho de um celular ou pager, que está ligado ao corpo do portador da doença por um finíssimo cateter com uma agulha flexível na ponta. Essa agulha é inserida no braço, coxa ou abdômen e deve ser trocada em um período de 2 ou 3 dias. Essa bomba não mede o índice glicêmico ou a quantidade de insulina a ser utilizada, essa medição é feita através do glicosímetro. A Figura ~\ref{fig:bombainfusao}\footnote{\url{http://www.diabetes.org.br/sala-de-noticias/2316-bombas-de-infusao-de-insulina}} representa um aparelho comercial.
 
 \begin{figure}[htp]
@@ -10,7 +10,7 @@ Bomba de infusão de insulina é um pequeno aparelho eletrônico, do tamanho de 
 \end{figure}
 
 
-Seu funcionamento é bem simples, libera-se uma quantidade de insulina, programada pelo médico, durante o dia todo, simulando o funcionamento do pâncreas de uma pessoa saudável, entretanto existem cuidados a serem tomados: calcular a quantidade de carboidratos ingeridos a cada refeição e programar o aparelho para injetar uma quantidade de insulina com maior velocidade no organismo.
+Seu funcionamento é bem simples, libera-se uma quantidade de insulina, programada pelo médico, durante o dia todo, simulando o funcionamento do pâncreas de uma pessoa saudável, entretanto existem cuidados a serem tomados: calcular a quantidade de carboidratos ingeridos a cada refeição e programar o aparelho para injetar uma quantidade de insulina com maior velocidade no organismo nos horário em que se faz as refeições principais.
 Quanto a quem pode usar, a pessoa deve cumprir alguns pré-requisitos que são:
 \begin{itemize}
 \item Conseguir medir o índice glicêmico no mínimo 4 vezes por dia;
@@ -51,9 +51,9 @@ Segundo a Sociedade Brasileira de Diabetes \cite{sbc2014}, diversos estudos real
 Logo, esse projeto vem com foco social: facilitar o acesso da população brasileira de baixa renda ao equipamento, melhorando sua qualidade de vida dos portadores da doença que se encaixem nesse perfil. 
 
 \section{OBJETIVOS}
-Esse projeto tem como objetivo principal desenvolver um protótipo de uma Bomba de Infusão de insulina utilizando o microcontrolador da família PIC, PIC18F452. 
+Esse projeto tem como objetivo principal desenvolver um software para um protótipo de uma Bomba de Infusão de insulina utilizando o microcontrolador da família PIC, PIC18F452. 
 
-\subsection{OBJETIVOS SECUNDÀRIOS}
+\subsection{OBJETIVOS SECUNDÁRIOS}
 
 Em segundo plano este trabalho foca em:
 \begin{itemize}
@@ -61,26 +61,26 @@ Em segundo plano este trabalho foca em:
 \item Aprendizado das tecnologias utilizadas como: compilador, simulador e bibliotecas disponíveis;
 \item Desenvolvimento das funcionalidades básicas de uma bomba de infusão de insulina;
 \item Aprendizado sobre a escolha e uso de um motor de passo;
-\item Aprendizado sobre a forma de uso de um Display de LCD para comunicação com o usuário.
+\item Aprendizado sobre a forma de uso de um \emph{display} de LCD para comunicação com o usuário.
 \end{itemize}
 
 \section{PROCEDIMENTOS METODOLÓGICOS}
-Este trabalho foi dividido em duas etapas: pesquisa para levantamento de referências bibliográficas e desenvolvimento prático. Durante a primeira etapa, foi feita a pesquisa e levantamento bibliográfico sobre o tema em questão para que fosse possível um melhor entendimento da plataforma, tecnologias e, claro, do problema abordado. Juntamente com essa pesquisa, foi feito um estudo sobre o microcontrolador PIC escolhido, PIC18F452, a partir do material encontrado. O estudo e desenvolvimento foi feito utilizando o compilador MikroC e sua IDE. Seguida houve-se um levantamento de informações sobre sistemas embarcados, sistemas críticos e sistemas críticos de tempo real, e assim adquindo-se conhecimento sobre os conceitos e desenvolimento da área em questão, uma vez que a confiabilidade e segurnça do problema proposto é importantíssimo.
+Este trabalho foi dividido em duas etapas: pesquisa para levantamento de referências bibliográficas e desenvolvimento prático. Durante a primeira etapa, foi feita a pesquisa e levantamento bibliográfico sobre o tema em questão para que fosse possível um melhor entendimento da plataforma, tecnologias e, claro, do problema abordado. Juntamente com essa pesquisa, foi feito um estudo sobre o microcontrolador PIC escolhido, PIC18F452, a partir do material encontrado. O estudo e desenvolvimento foi feito utilizando o compilador MikroC e sua IDE, já para os testes utilizou-se o simulador Proteus. Em seguida houve-se um levantamento de informações sobre sistemas embarcados, sistemas críticos e sistemas críticos de tempo real, e assim adquirindo-se conhecimento sobre os conceitos de desenvolvimento da área em questão, uma vez que a confiabilidade e segurança do problema proposto é importantíssimo.
 
 
-O software de controle do protótipo da bomba de infusão de insulina foi desenvolvido na linguagem C, compilado ara o microcontrolador já citado, PIC18F452. O sistema é responsável basicamente por gerenciar os perfel de infusão basal, calcular intervalos corretos e passos necessários para uma infusão. Desta forma, o
+O software de controle do protótipo da bomba de infusão de insulina foi desenvolvido na linguagem C, compilado para o microcontrolador já citado, PIC18F452. O sistema é responsável basicamente por gerenciar o perfil de infusão basal, calcular intervalos corretos e passos necessários para uma infusão. Desta forma, o
 software foi dividido nos seguintes módulos: Config, LCD, InsulinPump, Motor, Menu, TimerMotor e principal. 
 
-Essa divisão por módulos é, e foi, extremamente importante para o desenvolvimento do sistema. Somando-a à um dos conceitos mais importante desse projeto -OOC, \emph{Object-Oriented Programming With ANSI-C} - são as chaves para a facilidade de manutenção, entendimento do código e possível evolução do projeto.
+Essa divisão por módulos é, e foi, extremamente importante para o desenvolvimento do sistema. Somando-a à um dos conceitos mais importante desse projeto - OOC, \emph{Object-Oriented Programming With ANSI-C} - são as chaves para a facilidade de manutenção, entendimento do código e possível evolução do projeto.
 
 As responsabilidade dos módulos são bem claras e isoladas:
 
 Config: Centralizar configurações gerais do sistema;
 LCD: Abstrair uso do periférico para o resto do sistema;
 InsulimPump: Abstrair funcionamento, requisitos de segurança e outras particularidades da bomba;
-Motor: Abstrai como se controla o motor e qual motor está sendo utilizado para infusão;
+Motor: Abstrai como se controla o motor e qual tipo está sendo utilizado para infusão;
 TimerMotor: Separa o gerenciador de tempo das particularidade únicas do hardware e compilador;
 Menu: Facilitar navegação entre menus, simulando máquina de estado;
-Principal: Possui o Loop principal para navegação simples entre os menus existentes.
+Principal: Possui o \emph{loop} principal para navegação simples entre os menus existentes.
 
 E, finalizando, após o desenvolvimento, executou-se uma bateria de testes para se o funcionamento da bomba estava sendo de acordo coma forma especificada, levando em conta toda a integração necessária com os periféricos existentes.
