@@ -20,34 +20,34 @@
 \contentsline {subsection}{\numberline {2.3.8}MOTOR DE PASSO H\IeC {\'I}BRIDO}{36}{subsection.2.3.8}
 \contentsline {subsection}{\numberline {2.3.9}COMPARA\IeC {\c C}\IeC {\~A}O ENTRE TIPOS DE MOTORES}{37}{subsection.2.3.9}
 \contentsline {subsection}{\numberline {2.3.10}LCD - \emph {Liquid Crystal Display}}{38}{subsection.2.3.10}
-\contentsline {chapter}{\chapternumberline {3}PROTEUS \emph {DESIGN SUITE}}{39}{chapter.3}
-\contentsline {section}{\numberline {3.1}ISIS \emph {SCHEMATIC CAPTURE}}{39}{section.3.1}
-\contentsline {chapter}{\chapternumberline {4}MIKROC}{41}{chapter.4}
-\contentsline {chapter}{\chapternumberline {5}PIC18F452}{43}{chapter.5}
-\contentsline {section}{\numberline {5.1}Estrutura Interna}{44}{section.5.1}
-\contentsline {section}{\numberline {5.2}DESCRI\IeC {\c C}\IeC {\~A}O DOS PINOS}{45}{section.5.2}
-\contentsline {chapter}{\chapternumberline {6}Bomba de infus\IeC {\~a}o de insulina}{47}{chapter.6}
-\contentsline {section}{\numberline {6.1}Contextualiza\IeC {\c c}\IeC {\~a}o}{47}{section.6.1}
-\contentsline {section}{\numberline {6.2}Caracter\IeC {\'\i }sticas gerais da bomba de infus\IeC {\~a}o}{47}{section.6.2}
-\contentsline {section}{\numberline {6.3}Aspectos de seguran\IeC {\c c}a da bomba de infus\IeC {\~a}o}{49}{section.6.3}
-\contentsline {section}{\numberline {6.4}Requisitos da bomba de infus\IeC {\~a}o}{51}{section.6.4}
-\contentsline {chapter}{\chapternumberline {7}M\IeC {\'o}dulo de controle de infus\IeC {\~a}o de insulina}{55}{chapter.7}
-\contentsline {section}{\numberline {7.1}\emph {OOC - \emph {Object Orientated Programming in ANSI-C}}}{55}{section.7.1}
-\contentsline {section}{\numberline {7.2}\emph {Design Patterns}}{55}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Usos de \emph {Design Patterns}}{56}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}\emph {Factory Method}}{56}{subsection.7.2.2}
-\contentsline {section}{\numberline {7.3}Proteus}{58}{section.7.3}
-\contentsline {section}{\numberline {7.4}Arquitetura do Software}{59}{section.7.4}
-\contentsline {subsection}{\numberline {7.4.1}M\IeC {\'o}dulo Config}{59}{subsection.7.4.1}
-\contentsline {subsection}{\numberline {7.4.2}M\IeC {\'o}dulo InsulinPump}{60}{subsection.7.4.2}
-\contentsline {subsection}{\numberline {7.4.3}M\IeC {\'o}dulo Lcd}{60}{subsection.7.4.3}
-\contentsline {subsection}{\numberline {7.4.4}M\IeC {\'o}dulo Menu}{62}{subsection.7.4.4}
-\contentsline {subsection}{\numberline {7.4.5}M\IeC {\'o}dulo Motor}{62}{subsection.7.4.5}
-\contentsline {subsection}{\numberline {7.4.6}M\IeC {\'o}dulo TimerMotor}{63}{subsection.7.4.6}
-\contentsline {subsection}{\numberline {7.4.7}M\IeC {\'o}dulo Principal}{63}{subsection.7.4.7}
-\contentsline {chapter}{\chapternumberline {8}An\IeC {\'a}lise e discuss\IeC {\~a}o dos resultados}{65}{chapter.8}
-\contentsline {section}{\numberline {8.1}Bomba de infus\IeC {\~a}o}{65}{section.8.1}
-\contentsline {section}{\numberline {8.2}Simulador}{66}{section.8.2}
-\contentsline {section}{\numberline {8.3}Arquitetura modularizada}{67}{section.8.3}
-\contentsline {chapter}{\chapternumberline {9}Conclus\IeC {\~a}o}{69}{chapter.9}
-\contentsline {chapter}{Refer\^encias}{71}{section*.14}
+\contentsline {section}{\numberline {2.4}PROTEUS \emph {DESIGN SUITE}}{38}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}ISIS \emph {SCHEMATIC CAPTURE}}{39}{subsection.2.4.1}
+\contentsline {section}{\numberline {2.5}MIKROC}{40}{section.2.5}
+\contentsline {section}{\numberline {2.6}PIC18F452}{40}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Estrutura Interna}{42}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}DESCRI\IeC {\c C}\IeC {\~A}O DOS PINOS}{43}{subsection.2.6.2}
+\contentsline {chapter}{\chapternumberline {3}Bomba de infus\IeC {\~a}o de insulina}{45}{chapter.3}
+\contentsline {section}{\numberline {3.1}Contextualiza\IeC {\c c}\IeC {\~a}o}{45}{section.3.1}
+\contentsline {section}{\numberline {3.2}Caracter\IeC {\'\i }sticas gerais da bomba de infus\IeC {\~a}o}{45}{section.3.2}
+\contentsline {section}{\numberline {3.3}Aspectos de seguran\IeC {\c c}a da bomba de infus\IeC {\~a}o}{47}{section.3.3}
+\contentsline {section}{\numberline {3.4}Requisitos da bomba de infus\IeC {\~a}o}{49}{section.3.4}
+\contentsline {chapter}{\chapternumberline {4}M\IeC {\'o}dulo de controle de infus\IeC {\~a}o de insulina}{53}{chapter.4}
+\contentsline {section}{\numberline {4.1}\emph {OOC - \emph {Object Orientated Programming in ANSI-C}}}{53}{section.4.1}
+\contentsline {section}{\numberline {4.2}\emph {Design Patterns}}{53}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Usos de \emph {Design Patterns}}{54}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}\emph {Factory Method}}{54}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Proteus}{56}{section.4.3}
+\contentsline {section}{\numberline {4.4}Arquitetura do Software}{57}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}M\IeC {\'o}dulo Config}{57}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}M\IeC {\'o}dulo InsulinPump}{58}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}M\IeC {\'o}dulo Lcd}{58}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}M\IeC {\'o}dulo Menu}{60}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}M\IeC {\'o}dulo Motor}{60}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}M\IeC {\'o}dulo TimerMotor}{61}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}M\IeC {\'o}dulo Principal}{61}{subsection.4.4.7}
+\contentsline {chapter}{\chapternumberline {5}An\IeC {\'a}lise e discuss\IeC {\~a}o dos resultados}{63}{chapter.5}
+\contentsline {section}{\numberline {5.1}Bomba de infus\IeC {\~a}o}{63}{section.5.1}
+\contentsline {section}{\numberline {5.2}Simulador}{64}{section.5.2}
+\contentsline {section}{\numberline {5.3}Arquitetura modularizada}{65}{section.5.3}
+\contentsline {chapter}{\chapternumberline {6}Conclus\IeC {\~a}o}{67}{chapter.6}
+\contentsline {chapter}{Refer\^encias}{69}{section*.14}
