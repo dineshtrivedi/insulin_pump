@@ -1,15 +1,15 @@
 \chapter{SISTEMAS EMBARCADOS}
 Sistema embarcado em geral é uma combinação de \emph{hardware} e \emph{software} para executar uma tarefa específica diferente dos computadores do dia-a-dia que possuem inúmeros propósitos: verifica e-mail, escrever monografias, entre outros. Sistemas embarcados podem possuir ou não um sistema operacional, seja um RTOS, possui requisitos de tempo de execução, ou um Linux e, portanto, pode ser desenvolvido em um \emph{hardware} com microcontrolador ou microprocessador \cite{wikibook2012embedded}.
 
-Segundo \cite{cunha2013} a inteligência embarcada é uma tendência futura, cada vez mais inteligência será adicionada aos equipamentos do dia-a-dia, considera que um microondas atual tem mais capacidade computacional do que tinha o projeto Apolo, que levou o homem a lua. Esta crescente utilização se dá basicamente pelo preço e consumo reduzido dos microcontroladores, além da grande flexibilidade ao atender os mais diversos problemas visto o vasto número de arquiteturas disponíveis: ARM, MIPS, Coldfire/68k, PowerPC, x86, PIC, 8051, Atmel AVR, Renesas H8, SH, V850, FR-V, M32R, Z80, Z8 e outras. Um contraste que atrai diversos desenvolvedores quando comparado com o número limitado de arquiteturas diponíveis para microprocessadores do mercado de computadores pessoais \cite{germano2011}.
+Segundo \cite{cunha2013} a inteligência embarcada é uma tendência futura, cada vez mais inteligência será adicionada aos equipamentos do dia-a-dia, considera que um micro-ondas atual tem mais capacidade computacional do que tinha o projeto Apolo, que levou o homem a lua. Esta crescente utilização se dá basicamente pelo preço e consumo reduzido dos microcontroladores, além da grande flexibilidade ao atender os mais diversos problemas visto o vasto número de arquiteturas disponíveis: ARM, MIPS, Coldfire/68k, PowerPC, x86, PIC, 8051, Atmel AVR, Renesas H8, SH, V850, FR-V, M32R, Z80, Z8 e outras. Um contraste que atrai diversos desenvolvedores quando comparado com o número limitado de arquiteturas diponíveis para microprocessadores do mercado de computadores pessoais \cite{germano2011}.
 
 A comunicação dos microcontroladores com o meio externo, segundo \cite{germano2011}, se dá pelos periféricos e o mais comuns são:
 \begin{itemize}
-\item Entrada de dados através de teclas (geralmente através de teclados feitos com varredura matricial);
-\item Leds;
-\item Display’s de LCD (sendo os mais comuns os alfanuméricos por exemplo o HD44780);
-\item Interface serial – (Por exemplo RS 232, I2C);
-\item Universal Serial Bus – (USB);
+\item Entrada de dados através de teclas, geralmente pelo de teclados feitos com varredura matricial;
+\item \emph{Leds};
+\item \emph{Display’s} de LCD, sendo os mais comuns os alfanuméricos como o HD44780;
+\item Interface serial, por exemplo RS232 e I2C;
+\item USB, \emph{Universal Serial Bus};
 \item TCP/IP.
 \end{itemize}
 
@@ -23,7 +23,7 @@ Como dito anteriormente, esses sistemas estão cada vez mais no dia-a-dia das pe
 \end{figure}
 
 \section{SISTEMAS EMBARCADOS DE TEMPO}
-O conceito Tempo Real é complexo para ser explicado, mas sua ideia básica é que se espera que o computador responda algo para o ambiente externo em tempo. Normalmente pessoas assumem que tempo real significa “muito rápido”, entretanto não é verdade, tempo real simplesmente significa “rápido o suficiente” no contexto de operação do sistema. Um exemplo é a ação do motor, pode-se dizer que é “rápida”, pois o sistema deve tomar decisões como - fluxo de combutível, tempo da faísca - toda vez que o motor completa um ciclo.
+O conceito Tempo Real é complexo para ser explicado, mas sua ideia básica é que se espera que o computador responda algo para o ambiente externo em tempo. Normalmente pessoas assumem que tempo real significa "muito rápido", entretanto não é verdade, tempo real simplesmente significa "rápido o suficiente" no contexto de operação do sistema. Um exemplo é a ação do motor, pode-se dizer que é "rápida", pois o sistema deve tomar decisões como - fluxo de combustível, tempo da faísca - toda vez que o motor completa um ciclo.
 
 Sistemas de tempo real são baseados em previsibilidade e, segundo \cite{farines2000sistemas}, essa previsibilidade de um sistema de tempo real é obtida quando independente de falhas, sobrecargas e variações de hardware, e assim é possível que seu comportamento seja antecipado antes de sua execução. Isso tem a finalidade de poder prever o funcionamento de um sistema de tempo real e garantir as suas restrições temporais, e para isso é necessário definir hipóteses em relação a carga e falhas em relação ao ambiente externo deste sistema \cite{farines2000sistemas}. 
 Segundo \cite{mall2009real} os sistemas de tempo real são classificados em dois tipos:
@@ -39,8 +39,8 @@ Sistema Crítico é um sistema no qual a confiança é fundamental, ou melhor, a
 
 Segundo \cite{kopetz2011real} as classificações dos sistemas embarcados críticos podem ser:
 \begin{itemize}
-\item \emph{Fail Safe}: Classficação para sistemas onde o estado seguro pode ser atingido em caso de falha, como por exemplo, esgotar a bateria de uma bomba de insulida;
-\item \emph{Fail Operational}: Classificação para sistemas que em caso de falhas ainda são capazes de fornecer algum tipo de serviço, mesmo que mínimo. Um exemplo é um sistema de controle de vôo que, mesmo em caso de falha, é capaz de fornecer serviços e ser seguro.
+\item \emph{Fail Safe}: Classificação para sistemas onde o estado seguro pode ser atingido em caso de falha, como por exemplo, esgotar a bateria de uma bomba de insulina;
+\item \emph{Fail Operational}: Classificação para sistemas que em caso de falhas ainda são capazes de fornecer algum tipo de serviço, mesmo que mínimo. Um exemplo é um sistema de controle de voo que, mesmo em caso de falha, é capaz de fornecer serviços e ser seguro.
 \end{itemize}
 
 Abaixo a Figura \ref{fig:exSistEmbarcado},  mostra exemplos de sistemas embarcados críticos.
@@ -48,7 +48,7 @@ Abaixo a Figura \ref{fig:exSistEmbarcado},  mostra exemplos de sistemas embarcad
 \begin{figure}[htp]
 	\centering
 	\includegraphics[scale=0.7]{images/exemplo_sistemas_embarcados_criticos.png}	
-	\caption{Sistemas embarcos críticos}
+	\caption{Sistemas embarcados críticos}
 	\label{fig:exSistEmbarcado}	
 \end{figure}
 
@@ -63,7 +63,7 @@ Segundo \cite{ganssle1999art}, o microcontrolador é a parte mais importante de 
 \end{itemize}
 
 Além de ser composto por temporizadores, memória ROM (\emph{Read Only Memory}), conversor AD, analógico – digital, e DA, digital – analógico.
-Comparados com microprocessadores, os microcotroladores possuem consumo e clock, processamento, reduzidos, isso devido ao fato que o primeiro é destinado a tarefas que necessita uma alta capacidade de processamento como, por exemplo, os microprocessadores dos nossos desktop do dia-a-dia. Por padrão, os microprocessadores são utilizados em situações que os requisitos são abrangentes, com entradas e saída variadas como: sensores, atuadores e periféricos de comunicação \cite{lee2011introduction}.
+Comparados com microprocessadores, os microcotroladores possuem consumo e \emph{clock}, processamento, reduzidos, isso devido ao fato que o primeiro é destinado a tarefas que necessita uma alta capacidade de processamento como, por exemplo, os microprocessadores do nosso PC do dia-a-dia. Por padrão, os microprocessadores são utilizados em situações que os requisitos são abrangentes, com entradas e saída variadas como: sensores, atuadores e periféricos de comunicação \cite{lee2011introduction}.
 
 \subsection{PIC}
 PIC é um circuito integrado produzido pela \emph{Microchip Technology Inc}. Seu nome significa: \emph{Programmable Interface Controller}, Controlador de Interface Programável. Externamente possui uma aparência de um circuito integrado mais comuns - TTL ou CMOS -, mas na verdade contém todos os componentes de um sistema microprocessado como: CPU, \emph{Central Processor Unit}, sua finalidade é interpretar as instruções de programa; Memória PROM, \emph{Programmable Read Only Memory}, na qual memorizará as instruções do programa; Memória RAM, \emph{Random Access Memory}, utilizada pra memorizar as variáveis do programa; Linhas de I/O, entrada e saída, para controlar dispositivos internos e receber informações do meio externo; entre outros \cite{radio2012amadores,wikipedia2012pic}.
@@ -82,7 +82,7 @@ Segundo \cite{nomadusp2014}, os sensores são largamente utilizados na medicina,
 \end{itemize}
 
 \subsection{SENSORES BIOLÓGICOS}
-Segundo \cite{nomadusp2014}, os sensores citados anteriormente são corretamente chamados de sensores artificiais. Isto devido ao fato de existir sensores naturais ou biológicos, já que todos os organismos vivos possuem sensores capazes de agir da mesma forma que os sensores artificias. Esses sensores biológicos são células especializadas, sensíveis a:
+Segundo \cite{nomadusp2014}, os sensores citados anteriormente são corretamente chamados de sensores artificiais. Isto devido ao fato de existir sensores naturais ou biológicos, já que todos os organismos vivos possuem sensores capazes de agir da mesma forma que os artificias. Esses sensores biológicos são células especializadas, sensíveis a:
 
 \begin{itemize}
 \item Luz, movimento, temperatura, vibração, pressão, campos eléctricos, som, e outros aspectos físicos do ambiente;
@@ -103,9 +103,9 @@ Segundo \cite{chironis1991mechanisms}, dispositivos considerados atuadores são 
 \end{itemize}
 
 \subsection{MOTOR DE PASSO}
-Motor de passo é um dispositivo eletromecânico. Sua principal propriedade é sua habilidade de transformar pulsos elétricos em movimentos, esses movimentos são precisamente incrementados na posição do rotor e são denominados ‘passos’. Esse tipo de motor é caracterizado como máquina duplamente saliente, o que significa que possui dentes, compostos por matérias magnéticos nas duas partes que o compõe: A parte imóvel chamada estator e a móvel rotor \cite{demotor, acarnley2002stepping}.
+Motor de passo é um dispositivo eletromecânico. Sua principal propriedade é sua habilidade de transformar pulsos elétricos em movimentos, que são precisamente incrementados na posição do rotor e são denominados "passos". Esse tipo de motor é caracterizado como máquina duplamente saliente, significando que possui dentes, compostos por matérias magnéticos nas duas partes que o compõe: A parte imóvel chamada estator e a móvel rotor \cite{demotor, acarnley2002stepping}.
 
-Seu uso é interessante em situações em que precisão nos movimentos é necessária. Isso porque com ele é possível controlar: ângulo de rotação, velocidade, posição e sincronismo. Suas vantagens não são seu torque nem a capacidade de gerar movimentos de alta velocidade, mas sim a precisão em seus movimentos. Devido a essas características esse tipo de motor é amplamente utilizado em: câmeras de vídeo, robôs, brinquedos, scanners, impressoras, entre outros \cite{demotor}.
+Seu uso é interessante em situações em que precisão nos movimentos é necessária. Isso porque com ele é possível controlar: ângulo de rotação, velocidade, posição e sincronismo. Suas vantagens não são seu torque nem a capacidade de gerar movimentos de alta velocidade, mas sim a precisão em seus movimentos. Devido a essas características esse tipo de motor é amplamente utilizado em: câmeras de vídeo, robôs, brinquedos, \emph{scanners}, impressoras, entre outros \cite{demotor}.
 
 De forma simples o funcionamento de um motor de passo consiste no uso de materiais magnéticos, ou solenoides, como dito anteriormente, alinhados dois a dois, representando os polos norte e sul, que quando energizados atraem o rotor fazendo-o se alinhar as partes energizadas do estator, causando assim um pequeno movimento: o passo. Sua velocidade e sentido estão diretamente relacionados à forma com que os solenoides são acionados, o primeiro com a frequência e o segundo a ordem de acionamento \cite{demotor, acarnley2002stepping,wikipedia2012stepper}.
 
