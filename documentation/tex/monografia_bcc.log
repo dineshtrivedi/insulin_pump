@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  3 JUL 2014 20:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  3 JUL 2014 21:07
 entering extended mode
 **monografia_bcc.tex
 
@@ -1180,8 +1180,8 @@ ges/pinos_pic.png>] [44
 
 ] [45]
 Overfull \hbox (1.24658pt too wide) in paragraph at lines 37--38
-[]\T1/ptm/m/n/12 sistema blu-e-to-oth onde o pa-ci-ente uti-liza um dis-po-si-t
-ivo ex-terno para o con-trole da bomba; 
+[]\T1/ptm/m/n/12 sistema \T1/ptm/m/it/12 blu-e-to-oth \T1/ptm/m/n/12 onde o pa-
+ci-ente uti-liza um dis-po-si-tivo ex-terno para o con-trole da bomba; 
  []
 
 [46] [47] [48] <images/contexto_bomba.png, id=581, 430.60875pt x 316.93407pt>
@@ -1371,7 +1371,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 386.
 Here is how much of TeX's memory you used:
  11716 strings out of 493921
  172805 string characters out of 3147279
- 285548 words of memory out of 3000000
+ 285781 words of memory out of 3000000
  14528 multiletter control sequences out of 15000+200000
  65232 words of font info for 69 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -1386,7 +1386,7 @@ rogram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on monografia_bcc.pdf (73 pages, 2006622 bytes).
+Output written on monografia_bcc.pdf (73 pages, 2007359 bytes).
 PDF statistics:
  1070 PDF objects out of 1200 (max. 8388607)
  212 named destinations out of 1000 (max. 500000)
