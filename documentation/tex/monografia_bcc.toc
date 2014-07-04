@@ -47,9 +47,8 @@
 \contentsline {subsection}{\numberline {4.4.6}M\IeC {\'o}dulo TimerMotor}{65}{subsection.4.4.6}
 \contentsline {subsection}{\numberline {4.4.7}M\IeC {\'o}dulo Principal}{65}{subsection.4.4.7}
 \contentsline {chapter}{\chapternumberline {5}An\IeC {\'a}lise e discuss\IeC {\~a}o dos resultados}{67}{chapter.5}
-\contentsline {section}{\numberline {5.1}Bomba de infus\IeC {\~a}o}{67}{section.5.1}
-\contentsline {section}{\numberline {5.2}Simulador}{68}{section.5.2}
-\contentsline {section}{\numberline {5.3}Arquitetura modularizada}{69}{section.5.3}
+\contentsline {section}{\numberline {5.1}Simulador}{67}{section.5.1}
+\contentsline {section}{\numberline {5.2}Arquitetura modularizada}{68}{section.5.2}
 \contentsline {chapter}{\chapternumberline {6}Conclus\IeC {\~a}o}{71}{chapter.6}
 \contentsline {chapter}{Refer\^encias}{73}{section*.14}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
