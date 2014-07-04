@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  4 JUL 2014 00:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  4 JUL 2014 00:44
 entering extended mode
 **monografia_bcc.tex
 
@@ -887,7 +887,7 @@ LaTeX Info: Redefining \newblock on input line 646.
 LaTeX Info: Redefining \cite on input line 673.
 \ABCItoken=\toks27
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 110.
+Package hyperref Info: Option `colorlinks' set `true' on input line 101.
 \monografia_bcc@idxfile=\write4
 
 Writing index file monografia_bcc.idx 
@@ -898,26 +898,26 @@ LaTeX Warning: Unused global option(s):
 
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
 c.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 131.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 122.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 \AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring ON on input line 131.
+Package hyperref Info: Link coloring ON on input line 122.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -929,17 +929,17 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 131.
-LaTeX Info: Redefining \ref on input line 131.
-LaTeX Info: Redefining \pageref on input line 131.
-LaTeX Info: Redefining \nameref on input line 131.
+LaTeX Info: Redefining \nameref on input line 122.
+LaTeX Info: Redefining \ref on input line 122.
+LaTeX Info: Redefining \pageref on input line 122.
+LaTeX Info: Redefining \nameref on input line 122.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             macros/latex/contrib/pageslts/ 
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 131.
+(lastpage)             ! on input line 122.
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count176
@@ -958,17 +958,17 @@ Package lastpage Info: Please have a look at the pageslts package at
  <logo-unifesp.pdf, id=4, 845.1575pt x 597.23125pt>
 File: logo-unifesp.pdf Graphic file (type pdf)
  <use logo-unifesp.pdf>
-Package pdftex.def Info: logo-unifesp.pdf used on input line 145.
+Package pdftex.def Info: logo-unifesp.pdf used on input line 136.
 (pdftex.def)             Requested size: 113.75pt x 80.37668pt.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 148.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 139.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 151.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 142.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 151.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 142.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/dinesh/Desktop/w
@@ -977,28 +977,28 @@ grees>] [2
 
 ]<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 164.
+(Font)              <12> on input line 155.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 164.
+(Font)              <8> on input line 155.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 164.
+(Font)              <6> on input line 155.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.164 
+l.155 
        [1
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 192.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 183.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.206 \end{folhadeaprovacao}
+l.197 \end{folhadeaprovacao}
                              [2
 
 ] [3
@@ -1013,7 +1013,7 @@ l.206 \end{folhadeaprovacao}
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 256.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 247.
  [9] [10
 
 ] [11] [12
@@ -1407,6 +1407,9 @@ Underfull \hbox (badness 2050) in paragraph at lines 24--24
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 7.
 
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\config\GlobalC
 onfig.c [79
 
@@ -1414,12 +1417,19 @@ onfig.c [79
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [80])
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\config\GlobalC
 onfig.h [81]))
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\InsulinPump.t
-ex [82]
+ex [82] ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\InsulinPump\II
-nsulinPump.h)
+nsulinPump.h) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\InsulinPump\In
 sulinPump.c [83
 
@@ -1430,10 +1440,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [85])
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\InsulinPump\In
 sulinPump.h))
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\lcd.tex
-[86] (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\lcd\lcd.h
+[86] ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
+(C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\lcd\lcd.h)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 )
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\lcd\lcdFactory
 .h)
@@ -1442,10 +1460,17 @@ Underfull \vbox (badness 3068) has occurred while \output is active []
  [87
 
 ]
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\lcd\lcdFactory
-.c)
+.c) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\lcd\lcd4bits2x
-16\lcd4bits2x16.h)
+16\lcd4bits2x16.h) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\lcd\lcd4bits2x
 16\lcd4bits2x16.c [88]
 LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <12> not available
@@ -1595,10 +1620,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\menu.tex
 [91] [92
 
-]
+] ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\menu\IMenu.h)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\menu\MenuConfi
-gurar.h)
+gurar.h) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\menu\MenuConfi
 gurar.c [93]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1607,53 +1639,86 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [95])
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\menu\MenuExecu
-tando.h)
+tando.h) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\menu\MenuExecu
 tando.c [96]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [97])
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\menu\MenuInici
-al.h)
+al.h) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\menu\MenuInici
 al.c [98]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [99])
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\menu\MenuReser
-vatorio.h)
+vatorio.h) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\menu\MenuReser
 vatorio.c [100]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [101]))
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\motor.tex
-[102]
+[102] ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\motor\IMotorPa
-sso.h)
+sso.h) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\motor\MotorPas
-soFactory.h)
+soFactory.h) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\motor\MotorPas
 soFactory.c [103
 
-])
+]) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\motor\MotorPro
-teus\MotorProteus.h)
+teus\MotorProteus.h) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\motor\MotorPro
 teus\MotorProteus.c [104]))
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\timerMotor.te
 x [105] [106
 
-]
+] ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\timerMotor\ITi
-merMotor.h)
+merMotor.h) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\timerMotor\Tim
-erMotorPasso.h)
+erMotorPasso.h) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\src\timerMotor\Tim
 erMotorPasso.c [107]))
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\principal.tex
-[108]
+[108] ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+)
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\insulin_pump.c
 
 ! Package inputenc Error: Unicode char \u8:ç\expandafter\lst@FillFixed@ not set
@@ -1711,30 +1776,30 @@ AED: lastpage setting LastPage
 \tf@lof=\write6
 \tf@lot=\write7
 \tf@toc=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 439.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 439.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 430.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 430.
 
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
 c.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 439.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 439.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 430.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 430.
 Package rerunfilecheck Info: File `monografia_bcc.brf' has not changed.
 (rerunfilecheck)             Checksum: 065C23A03D6EAE8DB93CAD0568D68DF3;3689.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 439.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 430.
  )
 (\end occurred when \iffalse on line 40 was incomplete) 
 Here is how much of TeX's memory you used:
- 15205 strings out of 493921
- 229809 string characters out of 3147279
- 393704 words of memory out of 3000000
- 16839 multiletter control sequences out of 15000+200000
+ 15211 strings out of 493921
+ 232281 string characters out of 3147279
+ 392620 words of memory out of 3000000
+ 16789 multiletter control sequences out of 15000+200000
  68875 words of font info for 74 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 43i,13n,49p,1741b,2080s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,13n,49p,1741b,2415s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX
  2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
