@@ -35,9 +35,9 @@ ILcd Lcd4Bits2x16 = {
 };
 
 /*
-obs: a emissão do registrador ADCON1 nos programas, acarreta o não acionamento adequado do PORTA e consequentemente provoca o mal funcionamento do programa.
-O pino RA4 do PIC é dreno aberto, isto implica que devemos conectar resitor de pull-up quando formos trabalhar este pino como I/O de uso geral.
-O PORTE também possui a função de conversores analógicos /  digitais (A/D) também. Devemos configurar o ADCON1 para trabalharmos o PORTE como I/O de uso geral.
+obs: a emissao do registrador ADCON1 nos programas, acarreta o nao acionamento adequado do PORTA e consequentemente provoca o mal funcionamento do programa.
+O pino RA4 do PIC eh dreno aberto, isto implica que devemos conectar resitor de pull-up quando formos trabalhar este pino como I/O de uso geral.
+O PORTE tambem possui a funcao de conversores analogicos ou  digitais tambem. Devemos configurar o ADCON1 para trabalharmos o PORTE como IO de uso geral.
 */
 char configureLcd4Bits2x16(){
   trise = 0; // pinos D como saida

@@ -75,3 +75,5 @@
 /insulin_pump/src/lcd/lcd.h.ini
 /insulin_pump/src/lcd/lcdFactory.c.ini
 /insulin_pump/src/lcd/lcd4bits2x16/lcd4bits2x16.h.ini
+/documentation/tex/lcd.log
+/documentation/tex/motor.log

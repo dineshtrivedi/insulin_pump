@@ -15,7 +15,7 @@ void verifica_infusao(){
   }
 }
 
-void interrupt() {      //vetor de interrupção de alta prioridade padrão do mikroc
+void interrupt() {
   tick++;
     if (tick >= 10){
        ++segundos;

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  4 JUL 2014 01:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  6 JUL 2014 16:18
 entering extended mode
 **monografia_bcc.tex
 
@@ -1367,10 +1367,10 @@ classe_motor.png> <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation
 File: images/pic_microgenio.png Graphic file (type png)
 
 <use images/pic_microgenio.png>
-Package pdftex.def Info: images/pic_microgenio.png used on input line 15.
+Package pdftex.def Info: images/pic_microgenio.png used on input line 17.
 (pdftex.def)             Requested size: 501.87376pt x 353.31914pt.
 
-Overfull \hbox (46.87376pt too wide) in paragraph at lines 15--16
+Overfull \hbox (46.87376pt too wide) in paragraph at lines 17--18
  [][] 
  []
 
@@ -1477,141 +1477,6 @@ File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 16\lcd4bits2x16.c [88]
 LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
-
-
-! Package inputenc Error: Unicode char \u8:ã\expandafter\lst@FillFixed@ not set
- up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 obs: a emissão 
-                    do registrador ADCON1 nos programas, acarreta o não acio...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:ã\expandafter\lst@FillFixed@ not set
- up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 ...ador ADCON1 nos programas, acarreta o não 
-                                                  acionamento adequado do PO...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:é\lst@FillFixed@\@empty not set up f
-or use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39 O pino RA4 do PIC é 
-                         dreno aberto, isto implica que devemos conectar res...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:é\expandafter\lst@FillFixed@ not set
- up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 O PORTE também 
-                    possui a função de conversores analógicos /  digitais (A...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:ç\expandafter\lst@FillFixed@ not set
- up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 O PORTE também possui a função 
-                                    de conversores analógicos /  digitais (A...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:ão\@empty not set up for use with La
-TeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 O PORTE também possui a função 
-                                    de conversores analógicos /  digitais (A...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:ó\expandafter\lst@FillFixed@\fi not 
-set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 ...possui a função de conversores analógicos 
-                                                  /  digitais (A/D) também. ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \else.
-\lst@PrintToken ...@Output \lst@letterfalse \else 
-                                                  \lst@OutputOther \let \lst...
-l.40 ...possui a função de conversores analógicos 
-                                                  /  digitais (A/D) também. ...
-I'm ignoring this; it doesn't match any \if.
-
-! Extra \else.
-\lst@ProcessSpace ...lst@AppendSpecialSpace \else 
-                                                  \ifnum \lst@length =\z@ \g...
-l.40 ...possui a função de conversores analógicos 
-                                                  /  digitais (A/D) também. ...
-I'm ignoring this; it doesn't match any \if.
-
-
-! Package inputenc Error: Unicode char \u8:é\expandafter\lst@FillFixed@ not set
- up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 ...sores analógicos /  digitais (A/D) também.
-                                                   Devemos configurar o ADCO...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1722,50 +1587,6 @@ erMotorPasso.c [107]))
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 )
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\insulin_pump\insulin_pump.c
-
-! Package inputenc Error: Unicode char \u8:ç\expandafter\lst@FillFixed@ not set
- up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ...interrupt() {      //vetor de interrupção 
-                                                  de alta prioridade padrão ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:ão\@empty not set up for use with La
-TeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ...interrupt() {      //vetor de interrupção 
-                                                  de alta prioridade padrão ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:ã\expandafter\lst@FillFixed@ not set
- up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ... de interrupção de alta prioridade padrão 
-                                                  do mikroc
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 [109
 
 ]
@@ -1792,27 +1613,26 @@ Package rerunfilecheck Info: File `monografia_bcc.brf' has not changed.
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 430.
- )
-(\end occurred when \iffalse on line 40 was incomplete) 
+ ) 
 Here is how much of TeX's memory you used:
- 15207 strings out of 493921
- 232220 string characters out of 3147279
- 392620 words of memory out of 3000000
- 16786 multiletter control sequences out of 15000+200000
+ 15201 strings out of 493921
+ 232055 string characters out of 3147279
+ 390620 words of memory out of 3000000
+ 16780 multiletter control sequences out of 15000+200000
  68875 words of font info for 74 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  43i,13n,49p,1741b,2415s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX
- 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
-/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on monografia_bcc.pdf (113 pages, 2282070 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
+vb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
+tmri8a.pfb>
+Output written on monografia_bcc.pdf (113 pages, 2282290 bytes).
 PDF statistics:
  2599 PDF objects out of 2984 (max. 8388607)
  1252 named destinations out of 1440 (max. 500000)
