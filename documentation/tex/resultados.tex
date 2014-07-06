@@ -23,7 +23,7 @@ E, além disso, como os testes e validações do \emph{hardware} feito através 
 
 A organização do código é o grande destaque e vantagem desse trabalho. O desacoplamento foi o foco principal durante todo o desenvolvimento isso para facilitar mudanças no próprio \emph{software} ou do \emph{hardware}.
 
-Esse desacoplamento alcançado deveu-se graças ao uso do conceito OOC, \emph{Object Orientated Programming in ANSI-C}. Através de seu uso pode-se aproveiytar das diversas vantagens que a Programação Orientada Objetos proporciona, embora seja um conceito considerado mais volumoso já que seu uso requer um conhecimento de como as linguagens OO abstraem os operadores desse paradigma, pois são implementados manualmente, como:
+Esse desacoplamento alcançado deveu-se graças ao uso do conceito OOC, \emph{Object Orientated Programming in ANSI-C}. Através de seu uso pode-se aproveitar das diversas vantagens que a Programação Orientada Objetos proporciona, embora seja um conceito considerado mais volumoso já que seu uso requer um conhecimento de como as linguagens OO abstraem os operadores desse paradigma, pois são implementados manualmente, como:
 
 \begin{itemize}
 \item \emph{Bind}: É a associação de uma chamada a um método ou função com sua implementação, de forma mais específica é definir para quem o ponteiro da função está endereçado;
@@ -32,11 +32,11 @@ Esse desacoplamento alcançado deveu-se graças ao uso do conceito OOC, \emph{Ob
 \item Construtor: Função da classe responsável por realizar o \emph{bind} de cada ponteiro para cada função da classe, alocações dinâmicas e outras operações que podem ser definidas de acordo com a necessidade de cada classe;
 \item Destrutor: Basicamente a liberação de todos os recursos alocados pelo construtor e funções que a classe utilizou;
 \item Public: Para declarar um atributo com esse operador de acesso deve-se declarar a variável como atributo da \emph{struct} ou no arquivo header, seja da classe ou da interface;
-\item Private: Para esse operador a declaração da variável se dá fora da \emph{struct}, não pode ser no header, pois é o arquivo conhecido pelo resto do sistema.
+\item Private: Para esse operador a declaração da variável se dá fora da \emph{struct}, não pode ser no \emph{header}, pois é o arquivo conhecido pelo resto do sistema.
 \item Polimorfismo e abstração de dados: Resultado da associação de um mesmo ponteiros de função de uma classe ou interface à funções diferente, variando em função da classe mais especializada que está sendo abstraída.
 \end{itemize}
 
-Mas obviamente OOC é limitado e algumas complicações em sua adaptção para o paradigma OO. Validações em tempo de compilação são menos específicas, programação genérica, sintaxe mais complexa, geração de código implícito, entre outros.
+Mas obviamente OOC é limitado e algumas complicações em sua adaptação para o paradigma OO. Validações em tempo de compilação são menos específicas, programação genérica, sintaxe mais complexa, geração de código implícito, entre outros.
 
 Essa abordagem foi importantíssima, pois é possível fazer testes, mocks no sistema, pelo fato de simular programação orientação à objetos, possibilitando realizar testes unitários e utilizando um PC, ambiente utilizado: Ubuntu 13.10, compilador gcc, Framework C++ Qt e IDE QtCreator. Uma vez que as classes e interfaces possuem ponteiros de funções, para que o \emph{bind} seja feito nas funções de criação, a realização do mock é muito simples, pois basta fazer com que o ponteiro da função a ser mockada seja endereçada para outra função de acordo com o teste a ser realizado. Ao realizar os testes e mocks o acesso aos periféricos, todos os acionamentos e comunicações, ou seja, tudo vinculado ao \emph{hardware} podem redirecionados para um arquivo log de acompanhamento. A definição da arquitetura foi totalmente desenvolvida em função da possibilidade de realização de testes unitários, uma vez que para se realizar os testes é preciso um alto nível de desacoplamento. A seguir está descrito as vantagens principais de cada módulo devido a forma de implementação.
 
