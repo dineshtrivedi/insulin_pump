@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  6 JUL 2014 17:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  6 JUL 2014 18:13
 entering extended mode
 **monografia_bcc.tex
 
@@ -1384,6 +1384,12 @@ Overfull \hbox (2.62062pt too wide) in paragraph at lines 53--54
 )
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\conclusao.tex
 [70])
+Overfull \hbox (2.22556pt too wide) in paragraph at lines 9--380
+[]\T1/ptm/m/n/12 Por fim, o có-digo é aberto, li-cença MIT e pode ser en-con-tr
+ado em: [][]$\T1/pcr/m/n/12 https : / / gitlab .$
+ []
+
+
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
 c.bbl
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
@@ -1638,7 +1644,7 @@ rogram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on monografia_bcc.pdf (113 pages, 2284158 bytes).
+Output written on monografia_bcc.pdf (113 pages, 2284294 bytes).
 PDF statistics:
  2596 PDF objects out of 2984 (max. 8388607)
  1252 named destinations out of 1440 (max. 500000)
