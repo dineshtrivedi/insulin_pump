@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  6 JUL 2014 16:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.20)  6 JUL 2014 17:45
 entering extended mode
 **monografia_bcc.tex
 
@@ -1375,17 +1375,23 @@ Overfull \hbox (46.87376pt too wide) in paragraph at lines 17--18
  []
 
 [68 <C:/Users/dinesh/Desktop/workspace/insulin_pump/documentation/tex/images/pi
-c_microgenio.png>])
-(C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\conclusao.tex
-[69] [70
+c_microgenio.png>] [69]
+Overfull \hbox (2.62062pt too wide) in paragraph at lines 53--54
+[]\T1/ptm/m/n/12 O mó-dulo Menu, lem-bra uma má-quina de es-tado, pois re-torna
+ um pró-ximo Menu(estado)
+ []
 
-])
+)
+(C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\conclusao.tex
+[70])
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
 c.bbl
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
 c.brf)
 \tf@brf=\write5
- [71] [72
+ [71
+
+] [72
 
 ]
 bibitemlist
@@ -1599,20 +1605,20 @@ AED: lastpage setting LastPage
 \tf@lof=\write6
 \tf@lot=\write7
 \tf@toc=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 430.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 430.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 431.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 431.
 
 (C:\Users\dinesh\Desktop\workspace\insulin_pump\documentation\tex\monografia_bc
 c.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 430.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 430.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 431.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 431.
 Package rerunfilecheck Info: File `monografia_bcc.brf' has not changed.
-(rerunfilecheck)             Checksum: EBD532FA3F05AF0CE662E4D8B61A39F6;3748.
+(rerunfilecheck)             Checksum: 065C23A03D6EAE8DB93CAD0568D68DF3;3689.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 430.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 431.
  ) 
 Here is how much of TeX's memory you used:
  15201 strings out of 493921
@@ -1632,9 +1638,9 @@ rogram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on monografia_bcc.pdf (113 pages, 2282290 bytes).
+Output written on monografia_bcc.pdf (113 pages, 2284158 bytes).
 PDF statistics:
- 2599 PDF objects out of 2984 (max. 8388607)
+ 2596 PDF objects out of 2984 (max. 8388607)
  1252 named destinations out of 1440 (max. 500000)
  969 words of extra memory for PDF output out of 10000 (max. 10000000)
 
