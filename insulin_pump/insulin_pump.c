@@ -17,6 +17,7 @@ void verifica_infusao(){
 
 void interrupt() {
   tick++;
+  // 400
     if (tick >= 10){
        ++segundos;
        verifica_infusao();

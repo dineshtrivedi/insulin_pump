@@ -1,7 +1,13 @@
-\backcite {portaldiabetes2008}{{25}{1}{chapter.1}}
-\backcite {diabetes2013, portaldiabetes2009}{{27}{1}{figure.1.1}}
-\backcite {diabetes2013, portaldiabetes2009}{{27}{1}{figure.1.1}}
-\backcite {sbc2014}{{27}{1.1}{section.1.1}}
+\backcite {alberti1998definition}{{23}{1.1}{section.1.1}}
+\backcite {alberti1998definition}{{23}{1.1}{section.1.1}}
+\backcite {magnolti2007update}{{23}{1.2}{section.1.2}}
+\backcite {magnolti2007update}{{24}{1.2.1}{subsection.1.2.1}}
+\backcite {bode2002insulin}{{25}{1.2.2}{subsection.1.2.2}}
+\backcite {portaldiabetes2008}{{25}{1}{figure.1.1}}
+\backcite {sbc2014, diabetes2013, portaldiabetes2009}{{26}{1.2.2}{figure.1.1}}
+\backcite {sbc2014, diabetes2013, portaldiabetes2009}{{26}{1.2.2}{figure.1.1}}
+\backcite {sbc2014, diabetes2013, portaldiabetes2009}{{26}{1.2.2}{figure.1.1}}
+\backcite {sbc2014}{{26}{1.3}{section.1.3}}
 \backcite {wikibook2012embedded}{{31}{2}{chapter.2}}
 \backcite {cunha2013}{{31}{2}{chapter.2}}
 \backcite {germano2011}{{31}{2}{chapter.2}}

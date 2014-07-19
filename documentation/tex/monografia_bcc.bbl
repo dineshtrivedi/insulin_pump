@@ -10,6 +10,15 @@
 {ACARNLEY, P.~P. \emph{Stepping motors: a guide to theory and practice}.
   [S.l.]: Iet, 2002.}
 
+\bibitem[Alberti e Zimmet 1998]{alberti1998definition}
+\abntrefinfo{Alberti e Zimmet}{ALBERTI; ZIMMET}{1998}
+{ALBERTI, K. G. M.~M.; ZIMMET, P.~f. Definition, diagnosis and classification
+  of diabetes mellitus and its complications. part 1: diagnosis and
+  classification of diabetes mellitus. provisional report of a who
+  consultation.
+\emph{Diabetic medicine}, Wiley Online Library, v.~15, n.~7, p. 539--553,
+  1998.}
+
 \bibitem[Amorim 2008]{amorim2008novas}
 \abntrefinfo{Amorim}{AMORIM}{2008}
 {AMORIM, A. C. P.~d. Novas abordagens em insulinoterapia.
@@ -21,6 +30,12 @@ Universidade da Beira Interior, 2008.}
 Acessado em 20/06/2014.
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$ftp://ftp.dca.fee.unicamp.br/pub/docs/ea079/complementos/Lcd.pdf$>$}{ftp://ftp.dca.fee.unicamp.br/pub/docs/ea079/complementos/Lcd.pdf}.}
+
+\bibitem[Bode, Tamborlane e Davidson 2002]{bode2002insulin}
+\abntrefinfo{Bode, Tamborlane e Davidson}{BODE; TAMBORLANE; DAVIDSON}{2002}
+{BODE, B.~W.; TAMBORLANE, W.~V.; DAVIDSON, P.~C. Insulin pump therapy in the
+  21st century.
+\emph{Postgrad Med}, v.~111, n. 69-77, p.~9, 2002.}
 
 \bibitem[Chironis e Sclater 1991]{chironis1991mechanisms}
 \abntrefinfo{Chironis e Sclater}{CHIRONIS; SCLATER}{1991}
@@ -88,6 +103,11 @@ Dispon{\'\i}vel em:
 \abntrefinfo{Lee e Seshia}{LEE; SESHIA}{2011}
 {LEE, E.~A.; SESHIA, S.~A. \emph{Introduction to embedded systems: A
   cyber-physical systems approach}. [S.l.]: Lee \& Seshia, 2011.}
+
+\bibitem[Magnolti e Rayfield 2007]{magnolti2007update}
+\abntrefinfo{Magnolti e Rayfield}{MAGNOLTI; RAYFIELD}{2007}
+{MAGNOLTI, M.~A.; RAYFIELD, E.~J. An update on insulin injection devices.
+\emph{Insulin}, Elsevier, v.~2, n.~4, p. 173--181, 2007.}
 
 \bibitem[Mall 2009]{mall2009real}
 \abntrefinfo{Mall}{MALL}{2009}
