@@ -104,6 +104,11 @@ Dispon{\'\i}vel em:
 {LEE, E.~A.; SESHIA, S.~A. \emph{Introduction to embedded systems: A
   cyber-physical systems approach}. [S.l.]: Lee \& Seshia, 2011.}
 
+\bibitem[Li e Yao 2003]{li2003real}
+\abntrefinfo{Li e Yao}{LI; YAO}{2003}
+{LI, Q.; YAO, C. \emph{Real-time concepts for embedded systems}. [S.l.]: CRC
+  Press, 2003.}
+
 \bibitem[Magnolti e Rayfield 2007]{magnolti2007update}
 \abntrefinfo{Magnolti e Rayfield}{MAGNOLTI; RAYFIELD}{2007}
 {MAGNOLTI, M.~A.; RAYFIELD, E.~J. An update on insulin injection devices.
@@ -196,15 +201,6 @@ Hanser, 1993.}
 \abntrefinfo{Sommerville}{SOMMERVILLE}{2004}
 {SOMMERVILLE, I. \emph{Software Engineering. International computer science
   series}. [S.l.]: Addison Wesley, 2004.}
-
-\bibitem[{WIKIBOOK} 2012]{wikibook2012embedded}
-\abntrefinfo{{WIKIBOOK}}{{WIKIBOOK}}{2012}
-{{WIKIBOOK}. \emph{Embedded Systems Introduction}. 2012.
-Acessado em 02/12/2012.
-Dispon{\'\i}vel em:
-  \htmladdnormallink{$<$http:\-/\-/en\-.wikibooks\-.org\-/wiki\-/Embedded\underline{\
-  }Systems\-/Embedded\underline{\ }Systems\underline{\
-  }Introductio$>$}{http://en.wikibooks.org/wiki/Embedded_Systems/Embedded_Systems_Introductio}.}
 
 \bibitem[{WIKIPEDIA} 2012]{wikipedia2012stepper}
 \abntrefinfo{{WIKIPEDIA}}{{WIKIPEDIA}}{2012a}

@@ -5,8 +5,9 @@
 %Sistemas embarcados:
 %http://www.lyfreitas.com.br/ant/pdf/Embarcados.pdf
 %http://scholar.google.com.br/scholar.bib?q=info:1-vOBR4J36UJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAU8czA4i1zSCXNM5O2aSqEIrxRcVyVSAM&scisf=4&hl=pt-BR
-\chapter{SISTEMAS EMBARCADOS}
-Sistema embarcado em geral é uma combinação de \emph{hardware} e \emph{software} para executar uma tarefa específica diferente dos computadores do dia-a-dia que possuem inúmeros propósitos: verifica e-mail, escrever monografias, entre outros. Sistemas embarcados podem possuir ou não um sistema operacional, seja um RTOS, possui requisitos de tempo de execução, ou um Linux e, portanto, pode ser desenvolvido em um \emph{hardware} com microcontrolador ou microprocessador \cite{wikibook2012embedded}.
+\chapter{Sistemas Embarcados}
+\label{cap:sis_embarcados}
+Diferentemente dos computadores do dia-dia, ou seja, de propósito geral, em sistemas embarcados o software é acoplado à um hardware dedicado, sendo as funcionalidades implementadas de acordo com os requisitos e também com as características e particularidades de seus componentes físicos sendo utilizados. Sua principal característica é o fato de ser destinado a executar tarefas específicas \cite{li2003real}
 
 Segundo \cite{cunha2013} a inteligência embarcada é uma tendência futura, cada vez mais inteligência será adicionada aos equipamentos do dia-a-dia, considera que um micro-ondas atual tem mais capacidade computacional do que tinha o projeto Apolo, que levou o homem a lua. Esta crescente utilização se dá basicamente pelo preço e consumo reduzido dos microcontroladores, além da grande flexibilidade ao atender os mais diversos problemas visto o vasto número de arquiteturas disponíveis: ARM, MIPS, Coldfire/68k, PowerPC, x86, PIC, 8051, Atmel AVR, Renesas H8, SH, V850, FR-V, M32R, Z80, Z8 e outras. Um contraste que atrai diversos desenvolvedores quando comparado com o número limitado de arquiteturas diponíveis para microprocessadores do mercado de computadores pessoais \cite{germano2011}.
 
@@ -20,17 +21,18 @@ A comunicação dos microcontroladores com o meio externo, segundo \cite{germano
 \item TCP/IP.
 \end{itemize}
 
-Como dito anteriormente, esses sistemas estão cada vez mais no dia-a-dia das pessoas e, claro, facilitando a vida delas, mas muitas vezes não são percebidos. E cada vez mais estão mais acessíveis podendo automatizar funções até mesmo dentro das próprias casas. A Figura \ref{fig:exemplosistemasembarcados}\footnote{\url{http://bytesdontbite.com/2012/06/26/embedded-systems-no-bdb/}} mostra alguns sistemas embarcados e onde são utilizados:
+Como dito anteriormente, esses sistemas estão cada vez mais no dia-a-dia das pessoas e, claro, facilitando a vida delas, mas muitas vezes não são percebidos. E cada vez mais estão mais acessíveis podendo automatizar funções até mesmo dentro das próprias casas. %A Figura \ref{fig:exemplosistemasembarcados}\footnote{\url{http://bytesdontbite.com/2012/06/26/embedded-systems-no-bdb/}} mostra alguns sistemas embarcados e onde são utilizados:
 
-\begin{figure}[htp]
-	\centering
-	\includegraphics[scale=1]{images/exemplo_sistemas_embarcados.png}
-	\caption{Exemplo de Sistemas embarcados}	
-	\label{fig:exemplosistemasembarcados}	
-\end{figure}
+%\begin{figure}[htp]
+%	\centering
+%	\includegraphics[scale=1]{images/exemplo_sistemas_embarcados.png}
+%	\caption{Exemplo de Sistemas embarcados}	
+%	\label{fig:exemplosistemasembarcados}	
+%\end{figure}
 
-\section{SISTEMAS EMBARCADOS DE TEMPO}
-O conceito Tempo Real é complexo para ser explicado, mas sua ideia básica é que se espera que o computador responda algo para o ambiente externo em tempo. Normalmente pessoas assumem que tempo real significa "muito rápido", entretanto não é verdade, tempo real simplesmente significa "rápido o suficiente" no contexto de operação do sistema. Um exemplo é a ação do motor, pode-se dizer que é "rápida", pois o sistema deve tomar decisões como - fluxo de combustível, tempo da faísca - toda vez que o motor completa um ciclo.
+\section{Sistemas Embarcados de Tempo Real}
+\label{sec:sis_embarcados_tempo_real}
+O conceito Tempo Real vem da ideia básica em que é esperado que o software execute ou dê um retorno de sua execução até um limite de tempo bem definido. Normalmente pessoas assumem que tempo real significa "muito rápido", entretanto não é verdade, tempo real simplesmente significa "rápido o suficiente" no contexto de operação do sistema. Um exemplo é a ação do motor, pode-se dizer que é "rápida", pois o sistema deve tomar decisões como - fluxo de combustível, tempo da faísca - toda vez que o motor completa um ciclo.
 
 Sistemas de tempo real são baseados em previsibilidade e, segundo \cite{farines2000sistemas}, essa previsibilidade de um sistema de tempo real é obtida quando independente de falhas, sobrecargas e variações de hardware, e assim é possível que seu comportamento seja antecipado antes de sua execução. Isso tem a finalidade de poder prever o funcionamento de um sistema de tempo real e garantir as suas restrições temporais, e para isso é necessário definir hipóteses em relação a carga e falhas em relação ao ambiente externo deste sistema \cite{farines2000sistemas}. 
 Segundo \cite{mall2009real} os sistemas de tempo real são classificados em dois tipos:
@@ -39,8 +41,8 @@ Segundo \cite{mall2009real} os sistemas de tempo real são classificados em dois
 \item \emph{Hard Real Time Systems}: Sistemas Críticos de Tempo Real, onde a ocorrência de uma falha temporal complicam, e muito, os resultados quando comparado com seu funcionamento correto, exemplos: sistema de controle de um avião e um sistema de controle de semáforos.
 \end{itemize}
 
-\section{SISTEMAS EMBARCADOS CRÍTICO}
-\label{sec:SistemaEmbarcado}
+\section{Sistemas Embarcados Críticos}
+\label{sec:sis_embarcados_critico}
 
 Sistema Crítico é um sistema no qual a confiança é fundamental, ou melhor, a questão mais importante em seu desenvolvimento. Isso porque sistemas críticos, em caso de falha, podem causar consequências gravíssimas para os humanos, economia e outras áreas. Pode-se dizer que seus indicadores são: Disponibilidade, confiabilidade, segurança e proteção. E para que essa confiança seja alcançada deve-se evitar erros durante seu desenvolvimento e realizar diversos testes para que seja possível detectar e corrigir os erros que passarem de forma que seja possível limitar os danos causados por falhar operacionais \cite{sommerville2004software,feldmann2007survey,jordan2006standard}.
 
@@ -50,17 +52,17 @@ Segundo \cite{kopetz2011real} as classificações dos sistemas embarcados críti
 \item \emph{Fail Operational}: Classificação para sistemas que em caso de falhas ainda são capazes de fornecer algum tipo de serviço, mesmo que mínimo. Um exemplo é um sistema de controle de voo que, mesmo em caso de falha, é capaz de fornecer serviços e ser seguro.
 \end{itemize}
 
-Abaixo a Figura \ref{fig:exSistEmbarcado},  mostra exemplos de sistemas embarcados críticos.
+% Abaixo a Figura \ref{fig:exSistEmbarcado},  mostra exemplos de sistemas embarcados críticos.
 
-\begin{figure}[htp]
-	\centering
-	\includegraphics[scale=0.7]{images/exemplo_sistemas_embarcados_criticos.png}	
-	\caption{Sistemas embarcados críticos}
-	\label{fig:exSistEmbarcado}	
-\end{figure}
+%\begin{figure}[htp]
+%	\centering
+%	\includegraphics[scale=0.7]{images/exemplo_sistemas_embarcados_criticos.png}	
+%	\caption{Sistemas embarcados críticos}
+%	\label{fig:exSistEmbarcado}	
+%\end{figure}
 
-\section{MICROCONTROLADOR}
-Microcontroladores são chips inteligentes que utilizam a arquitetura Harvard, RISC. É constituído basicamente por pinos de entradas e saídas e memória. Suas saídas podem ser controladas através de programação e em função do processamento de suas entradas. Sua programação pode ser feita em diversas linguagens como: C, C++, entre outras \cite{radio2012amadores}.
+\section{Microcontrolador}
+\label{sec:microcontrolador}
 
 Segundo \cite{ganssle1999art}, o microcontrolador é a parte mais importante de um sistema embarcado e sua principal diferença quando comparada com um microprocessador é o fato de ser um sistema computacional completo que integra todos as principais partes da arquitetura de Von Neumann em um único componente, as partes citadas são:
 \begin{itemize}
@@ -72,10 +74,11 @@ Segundo \cite{ganssle1999art}, o microcontrolador é a parte mais importante de 
 Além de ser composto por temporizadores, memória ROM (\emph{Read Only Memory}), conversor AD, analógico – digital, e DA, digital – analógico.
 Comparados com microprocessadores, os microcotroladores possuem consumo e \emph{clock}, processamento, reduzidos, isso devido ao fato que o primeiro é destinado a tarefas que necessita uma alta capacidade de processamento como, por exemplo, os microprocessadores do nosso PC do dia-a-dia. Por padrão, os microprocessadores são utilizados em situações que os requisitos são abrangentes, com entradas e saída variadas como: sensores, atuadores e periféricos de comunicação \cite{lee2011introduction}.
 
-\subsection{PIC}
+\subsection{PIC - \emph{Programmable Interface Controller}}
+\label{sec:pic}
 PIC é um circuito integrado produzido pela \emph{Microchip Technology Inc}. Seu nome significa: \emph{Programmable Interface Controller}, Controlador de Interface Programável. Externamente possui uma aparência de um circuito integrado mais comuns - TTL ou CMOS -, mas na verdade contém todos os componentes de um sistema microprocessado como: CPU, \emph{Central Processor Unit}, sua finalidade é interpretar as instruções de programa; Memória PROM, \emph{Programmable Read Only Memory}, na qual memorizará as instruções do programa; Memória RAM, \emph{Random Access Memory}, utilizada pra memorizar as variáveis do programa; Linhas de I/O, entrada e saída, para controlar dispositivos internos e receber informações do meio externo; entre outros \cite{radio2012amadores,wikipedia2012pic}.
 
-\subsection{SENSORES}
+\subsection{Sensores}
 A definição de sensor pode ser a de um transdutor capaz de alterar sua característica física interna em resposta à um fenômeno físico externo. Além disso, existem sensores considerados de operação indireta que são os quais alteram suas propriedades como capacitância, resistência, ou, até mesmo, sua indutância, sob ação de algum gradeza ou evento externo \cite{rosario2006principios}. 
 
 Segundo \cite{nomadusp2014}, os sensores são largamente utilizados na medicina, indústria, robótica, além de outras aplicações. Considerando que o sinal é sempre uma forma de energia, os sensores podem ser classificados em função da energia que é capaz de detectar, como:
@@ -88,7 +91,7 @@ Segundo \cite{nomadusp2014}, os sensores são largamente utilizados na medicina,
 \item Outros;
 \end{itemize}
 
-\subsection{SENSORES BIOLÓGICOS}
+\subsection{Sensores Biológicos}
 Segundo \cite{nomadusp2014}, os sensores citados anteriormente são corretamente chamados de sensores artificiais. Isto devido ao fato de existir sensores naturais ou biológicos, já que todos os organismos vivos possuem sensores capazes de agir da mesma forma que os artificias. Esses sensores biológicos são células especializadas, sensíveis a:
 
 \begin{itemize}
@@ -100,7 +103,7 @@ Segundo \cite{nomadusp2014}, os sensores citados anteriormente são corretamente
 
 Esses sensores artificiais que imitam sensores biológicos, utilizando componentes biológicos, são chamados biossensores.
 
-\subsection{ATUADORES}
+\subsection{Atuadores}
 Segundo \cite{chironis1991mechanisms}, dispositivos considerados atuadores são aqueles que transformam uma forma de energia em outra, causando mudanças no ambiente em que estão atuando, ou seja, de acordo com sinais, ou impulsos, recebidos realizam ações capazes de alterar as grandezas físicas do ambiente em questão. Eles são capazes de converter energias como: energia elétrica, hidráulica e pneumática em energia mecânica. Segue exemplos de alguns tipos de atuadores:
 
 \begin{itemize}
