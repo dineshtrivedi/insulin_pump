@@ -19,6 +19,14 @@
 \emph{Diabetic medicine}, Wiley Online Library, v.~15, n.~7, p. 539--553,
   1998.}
 
+\bibitem[Almeida 2004]{transdutores2004usp}
+\abntrefinfo{Almeida}{ALMEIDA}{2004}
+{ALMEIDA, P. A.~d. O. \emph{TRANSDUTORES PARA MEDIDA DE DESLOCAMENTOS
+  LINEARES}. 2004.
+Acessado em 20/07/2014.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.lem\-.ep\-.usp\-.br\-/pef5003\-/TRANSDUTORES-1\-.pdf$>$}{http://www.lem.ep.usp.br/pef5003/TRANSDUTORES-1.pdf}.}
+
 \bibitem[Amorim 2008]{amorim2008novas}
 \abntrefinfo{Amorim}{AMORIM}{2008}
 {AMORIM, A. C. P.~d. Novas abordagens em insulinoterapia.
@@ -55,6 +63,13 @@ Dispon{\'\i}vel em:
 Acessado em 08/03/2013.
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/www\-.diabetes\-.org\-.br\-/sala-de-noticias\-/2316-bombas-de-infusao-de-insulina$>$}{http://www.diabetes.org.br/sala-de-noticias/2316-bombas-de-infusao-de-insulina}.}
+
+\bibitem[{ELETRONICABRASIL} 2014]{eletronicabrasil}
+\abntrefinfo{{ELETRONICABRASIL}}{{ELETRONICABRASIL}}{2014}
+{{ELETRONICABRASIL}. \emph{pic18f452 microgenios}. 2014.
+Acessado em 02/02/2014.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.eletronicabrasil\-.com\-.br\-/$>$}{http://www.eletronicabrasil.com.br/}.}
 
 \bibitem[Farines, Fraga e Oliveira 2000]{farines2000sistemas}
 \abntrefinfo{Farines, Fraga e Oliveira}{FARINES; FRAGA; OLIVEIRA}{2000}
@@ -162,14 +177,6 @@ Acessado em 10/03/2013.
 Dispon{\'\i}vel em:
   \htmladdnormallink{$<$http:\-/\-/www\-.portaldiabetes\-.com\-.br\-/conteudocompleto\-.asp?idconteudo=3267$>$}{http://www.portaldiabetes.com.br/conteudocompleto.asp?idconteudo=3267}.}
 
-\bibitem[{RADIOAMADORES} 2009]{radio2012amadores}
-\abntrefinfo{{RADIOAMADORES}}{{RADIOAMADORES}}{2009}
-{{RADIOAMADORES}. \emph{Microcontroladores}. 2009.
-Acessado em 02/12/2012.
-Dispon{\'\i}vel em:
-  \htmladdnormallink{$<$http:\-/\-/www\-.radioamadores\-.net\-/files\-/microcontroladores\underline{\
-  }pic\-.pdf$>$}{http://www.radioamadores.net/files/microcontroladores_pic.pdf}.}
-
 \bibitem[Ros{\'a}rio 2006]{rosario2006principios}
 \abntrefinfo{Ros{\'a}rio}{ROS{\'A}RIO}{2006}
 {ROS{\'A}RIO, J.~M. \emph{Princ{\'\i}pios de mecatr{\^o}nica}. [S.l.]: Pearson
@@ -201,22 +208,6 @@ Hanser, 1993.}
 \abntrefinfo{Sommerville}{SOMMERVILLE}{2004}
 {SOMMERVILLE, I. \emph{Software Engineering. International computer science
   series}. [S.l.]: Addison Wesley, 2004.}
-
-\bibitem[{WIKIPEDIA} 2012]{wikipedia2012stepper}
-\abntrefinfo{{WIKIPEDIA}}{{WIKIPEDIA}}{2012a}
-{{WIKIPEDIA}. \emph{Motor de passo}. 2012.
-Acessado em 04/12/2012.
-Dispon{\'\i}vel em:
-  \htmladdnormallink{$<$http:\-/\-/pt\-.wikipedia\-.org\-/wiki\-/Motor\underline{\
-  }de\underline{\ }passo$>$}{http://pt.wikipedia.org/wiki/Motor_de_passo}.}
-
-\bibitem[{WIKIPEDIA} 2012]{wikipedia2012pic}
-\abntrefinfo{{WIKIPEDIA}}{{WIKIPEDIA}}{2012b}
-{{WIKIPEDIA}. \emph{Pic}. 2012.
-Acessado em 01/12/2012.
-Dispon{\'\i}vel em:
-  \htmladdnormallink{$<$http:\-/\-/pt\-.wikipedia\-.org\-/wiki\-/Microcontrolador\underline{\
-  }PIC$>$}{http://pt.wikipedia.org/wiki/Microcontrolador_PIC}.}
 
 \bibitem[{WIKIPEDIA} 2013]{wikipedia2012spice}
 \abntrefinfo{{WIKIPEDIA}}{{WIKIPEDIA}}{2013}

@@ -6,7 +6,7 @@ O uso do simulador foi importantíssimo para o desenvolvimento desse trabalho. E
 
 Além de todas essas facilidades, a gama de testes e depuração é maior em um simulador do que no \emph{hardware}, como: o simulador indica más práticas existentes, permite simular o uso da bomba por dias em questão de minutos, basta configurar o tempo de execução, e outros. Graças aos exemplos citados anteriormente foi possível encontrar diversos problemas que só seriam descobertos quando estivesse testando diretamente no \emph{hardware} e mesmo assim surgiria a dúvida: É o \emph{hardware} ou o \emph{software}.
 
-O circuito elétrico utilizado para os testes foi desenvolvido com base na placa Microgenios, representada pela Figura \ref{fig:microgenios}. Todos os componentes utilizados assim como as ligações entre eles são fiéis à placa de referência, salvo às ligações do motor que não faz parte do conjunto de referência. Portanto uma migração para a placa de Microgenios teria o funcionamento dos botões existentes e \emph{display} de LCD de acordo com o esperado.
+O circuito elétrico montado no simulador para testes foi desenvolvido com base na placa Microgenios, representada pela Figura \ref{fig:microgenios}. Todos os componentes utilizados e suas ligações são fiéis à placa de referência, salvo o uso do motor de passo que não faz parte do conjunto de referência. Com isso, uma migração para a placa física da Microgenios manteria o funcionamento de todos os componentes exceto o motor de passo.
 
 E, além disso, como os testes e validações do \emph{hardware} feito através simulador são extremamente válidas e consistentes e o desenvolvimento foi baseado em uma placa consolidada, uma integração com uma placa diferente da utilizada como referência será muito mais simples. Isso deve-se ao fato através do simulador diminui-se os riscos e problemas no período de integração, onde são encontrados as maiores e inesperadas dificuldades do desenvolvimento.
  
@@ -17,11 +17,16 @@ E, além disso, como os testes e validações do \emph{hardware} feito através 
  	\includegraphics[scale=1]{images/pic_microgenio.png}
  	\caption{Placa Microgenios PIC18F4452}	
  	\label{fig:microgenios}
+ 	\cite{eletronicabrasil}
  \end{figure}
+ 
+\section{Cálculo por Referência}
+
+Os cálculos do sistema foram todos baseados em número inteiros. Isso devido ao fato de que o uso de ponto flutuante pode causar imprecisões além de consumir mais memória. Para isso toda internamente toda contagem das infusões está em função da quantidade mínima de infusão, 0,1, ou seja, caso seja preciso infundir 1 unidade de insulina internamente o sistema intende como 10. Isso também permite trocar o valor de quantidade minima a ser infundida sem impactar no funcionamento do resto do sistema.
 
 \section{Arquitetura modularizada}
 
-A organização do código é o grande destaque e vantagem desse trabalho. O desacoplamento foi o foco principal durante todo o desenvolvimento isso para facilitar mudanças no próprio \emph{software} ou do \emph{hardware}.
+A organização do código é o grande destaque e vantagem desse trabalho. O desacoplamento foi o foco principal durante todo o desenvolvimento isso para facilitar mudanças no próprio \emph{software} ou do \emph{hardware}. 
 
 Esse desacoplamento alcançado deveu-se graças ao uso do conceito OOC, \emph{Object Orientated Programming in ANSI-C}. Através de seu uso pode-se aproveitar das diversas vantagens que a Programação Orientada Objetos proporciona, embora seja um conceito considerado mais volumoso já que seu uso requer um conhecimento de como as linguagens OO abstraem os operadores desse paradigma, pois são implementados manualmente, como:
 
@@ -38,7 +43,7 @@ Esse desacoplamento alcançado deveu-se graças ao uso do conceito OOC, \emph{Ob
 
 Mas obviamente OOC é limitado e algumas complicações em sua adaptação para o paradigma OO. Validações em tempo de compilação são menos específicas, programação genérica, sintaxe mais complexa, geração de código implícito, entre outros.
 
-Essa abordagem foi importantíssima, pois é possível fazer testes, mocks no sistema, pelo fato de simular programação orientação à objetos, possibilitando realizar testes unitários e utilizando um PC. Uma vez que as classes e interfaces possuem ponteiros de funções, para que o \emph{bind} seja feito nas funções de criação, a realização do mock é muito simples, pois basicamente é fazer com que o ponteiro da função a ser mockada seja endereçada para outra de acordo com o teste a ser realizado. Ao realizar os testes e mocks o acesso aos periféricos, todos os acionamentos e comunicações, ou seja, tudo vinculado ao \emph{hardware} foram redirecionados para um arquivo log de acompanhamento. A definição da arquitetura foi totalmente desenvolvida em função da possibilidade de realização de testes unitários, uma vez que para se realizar os testes é preciso um alto nível de desacoplamento. Os testes foram realizados antes da unificação de todos os módulos do projeto, pois o módulo TimerMotor causou complicações uma vez que não se alcançou o desacoplamento total do \emph{hardware} devido ao \emph{timer} do microcontrolador. O ambiente utilizado: Ubuntu 13.10, compilador gcc, Framework C++ Qt e IDE QtCreator. A seguir está descrito as vantagens principais de cada módulo devido a forma de implementação.
+Essa abordagem foi importantíssima, pois é possível fazer testes, mocks no sistema, pelo fato de simular programação orientação à objetos, possibilitando realizar testes unitários e utilizando um PC. Uma vez que as classes e interfaces possuem ponteiros de funções, para que o \emph{bind} seja feito nas funções de criação, a realização do mock é muito simples, pois basicamente é fazer com que o ponteiro da função a ser mockada seja endereçada para outra de acordo com o teste a ser realizado. Ao realizar os testes e mocks o acesso aos periféricos, todos os acionamentos e comunicações, ou seja, tudo vinculado ao \emph{hardware} foram redirecionados para um arquivo log de acompanhamento. A definição da arquitetura foi totalmente desenvolvida em função da possibilidade de realização de testes unitários, uma vez que para se realizar os testes é preciso um alto nível de desacoplamento. Os testes foram realizados antes da unificação de todos os módulos do projeto, pois o módulo TimerMotor causou complicações uma vez que não se alcançou o desacoplamento total do \emph{hardware} devido ao \emph{timer} do microcontrolador. A seguir está descrito as vantagens principais de cada módulo devido a forma de implementação.
 
 O módulo Config é o mais simples de todos, sua principal vantagem é o fato de centralizar todas as informações de configuração, fazendo com que o sistema fique mais claro. Além disso, criar casos de testes torna-se simples, pois mudando qualquer uma de suas informações já se reflete no sistema como um todo. É importante lembrar também que ele não carrega nenhuma dependência do compilador ou do hardware, foi implementado em ANSI-C, o que permite que seja utilizado por qualquer compilador e \emph{hardware}.
 

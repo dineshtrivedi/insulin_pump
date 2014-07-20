@@ -21,44 +21,38 @@
 \backcite {kopetz2011real}{{32}{2.2}{section.2.2}}
 \backcite {ganssle1999art}{{33}{2.3}{section.2.3}}
 \backcite {lee2011introduction}{{33}{2.3}{section.2.3}}
-\backcite {radio2012amadores,wikipedia2012pic}{{33}{2.3.1}{subsection.2.3.1}}
-\backcite {radio2012amadores,wikipedia2012pic}{{33}{2.3.1}{subsection.2.3.1}}
-\backcite {rosario2006principios}{{33}{2.3.2}{subsection.2.3.2}}
-\backcite {nomadusp2014}{{34}{2.3.2}{subsection.2.3.2}}
-\backcite {nomadusp2014}{{34}{2.3.3}{subsection.2.3.3}}
-\backcite {chironis1991mechanisms}{{34}{2.3.4}{subsection.2.3.4}}
-\backcite {demotor, acarnley2002stepping}{{35}{2.3.5}{subsection.2.3.5}}
-\backcite {demotor, acarnley2002stepping}{{35}{2.3.5}{subsection.2.3.5}}
-\backcite {demotor}{{35}{2.3.5}{subsection.2.3.5}}
-\backcite {demotor, acarnley2002stepping,wikipedia2012stepper}{{35}{2.3.5}{subsection.2.3.5}}
-\backcite {demotor, acarnley2002stepping,wikipedia2012stepper}{{35}{2.3.5}{subsection.2.3.5}}
-\backcite {demotor, acarnley2002stepping,wikipedia2012stepper}{{35}{2.3.5}{subsection.2.3.5}}
-\backcite {acarnley2002stepping}{{37}{2.3.6}{figure.2.3}}
-\backcite {acarnley2002stepping}{{37}{2.3.6.1}{subsubsection.2.3.6.1}}
-\backcite {acarnley2002stepping}{{38}{2.3.7}{subsection.2.3.7}}
-\backcite {acarnley2002stepping}{{40}{2.3.8}{figure.2.7}}
-\backcite {acarnley2002stepping}{{40}{2.3.9}{subsection.2.3.9}}
-\backcite {lcd1996unicamp}{{41}{2.3.10}{subsection.2.3.10}}
-\backcite {proteus2013, wikipedia2012spice}{{42}{2.4}{section.2.4}}
-\backcite {proteus2013, wikipedia2012spice}{{42}{2.4}{section.2.4}}
-\backcite {mikroc2006}{{43}{2.5}{section.2.5}}
-\backcite {sbc2014}{{47}{3.1}{section.3.1}}
-\backcite {sbc2014}{{47}{3.1}{section.3.1}}
-\backcite {galvao2013requirements}{{47}{3.1}{section.3.1}}
-\backcite {minicucci2008uso}{{47}{3.2}{section.3.2}}
-\backcite {minicucci2008uso}{{48}{3.2}{section.3.2}}
-\backcite {amorim2008novas}{{48}{3.2}{section.3.2}}
-\backcite {sommerville2004software}{{49}{3.3}{section.3.3}}
-\backcite {sommerville2004software}{{49}{3.3}{section.3.3}}
-\backcite {zhang2010hazard}{{49}{3.3}{section.3.3}}
-\backcite {zhang2010hazard}{{49}{3.3}{section.3.3}}
-\backcite {galvao2013requirements}{{51}{12}{figure.3.12}}
-\backcite {galvao2013requirements}{{52}{13}{figure.3.13}}
-\backcite {galvao2013requirements}{{53}{14}{figure.3.14}}
-\backcite {galvao2013requirements}{{53}{15}{figure.3.15}}
-\backcite {schreiner1993object}{{55}{4.1}{section.4.1}}
-\backcite {shalloway2004design}{{56}{4.2}{section.4.2}}
-\backcite {shalloway2004design}{{56}{4.2.1}{subsection.4.2.1}}
-\backcite {shalloway2004design}{{56}{4.2.1}{subsection.4.2.1}}
-\backcite {shalloway2004design}{{57}{4.2.2}{subsection.4.2.2}}
-\backcite {shalloway2004design}{{58}{16}{figure.4.16}}
+\backcite {transdutores2004usp}{{35}{2.5}{section.2.5}}
+\backcite {rosario2006principios}{{36}{2.5}{section.2.5}}
+\backcite {nomadusp2014}{{36}{2.5}{section.2.5}}
+\backcite {nomadusp2014}{{36}{2.5.1}{subsection.2.5.1}}
+\backcite {chironis1991mechanisms}{{36}{2.5.2}{subsection.2.5.2}}
+\backcite {demotor, acarnley2002stepping}{{37}{2.5.3}{subsection.2.5.3}}
+\backcite {demotor, acarnley2002stepping}{{37}{2.5.3}{subsection.2.5.3}}
+\backcite {demotor}{{37}{2.5.3}{subsection.2.5.3}}
+\backcite {demotor, acarnley2002stepping}{{37}{2.5.3}{subsection.2.5.3}}
+\backcite {demotor, acarnley2002stepping}{{37}{2.5.3}{subsection.2.5.3}}
+\backcite {lcd1996unicamp}{{37}{2.5.4}{subsection.2.5.4}}
+\backcite {proteus2013, wikipedia2012spice}{{38}{2.6}{section.2.6}}
+\backcite {proteus2013, wikipedia2012spice}{{38}{2.6}{section.2.6}}
+\backcite {mikroc2006}{{39}{2.7}{section.2.7}}
+\backcite {schreiner1993object}{{39}{2.8}{section.2.8}}
+\backcite {shalloway2004design}{{40}{2.9}{section.2.9}}
+\backcite {shalloway2004design}{{41}{2.9.1}{subsection.2.9.1}}
+\backcite {shalloway2004design}{{41}{2.9.1}{subsection.2.9.1}}
+\backcite {shalloway2004design}{{41}{2.9.2}{subsection.2.9.2}}
+\backcite {shalloway2004design}{{43}{4}{figure.2.4}}
+\backcite {sbc2014}{{45}{3.1}{section.3.1}}
+\backcite {sbc2014}{{45}{3.1}{section.3.1}}
+\backcite {galvao2013requirements}{{45}{3.1}{section.3.1}}
+\backcite {minicucci2008uso}{{45}{3.2}{section.3.2}}
+\backcite {minicucci2008uso}{{46}{3.2}{section.3.2}}
+\backcite {amorim2008novas}{{46}{3.2}{section.3.2}}
+\backcite {sommerville2004software}{{47}{3.3}{section.3.3}}
+\backcite {sommerville2004software}{{47}{3.3}{section.3.3}}
+\backcite {zhang2010hazard}{{47}{3.3}{section.3.3}}
+\backcite {zhang2010hazard}{{47}{3.3}{section.3.3}}
+\backcite {galvao2013requirements}{{49}{5}{figure.3.5}}
+\backcite {galvao2013requirements}{{50}{6}{figure.3.6}}
+\backcite {galvao2013requirements}{{51}{7}{figure.3.7}}
+\backcite {galvao2013requirements}{{51}{8}{figure.3.8}}
+\backcite {eletronicabrasil}{{60}{17}{figure.5.17}}

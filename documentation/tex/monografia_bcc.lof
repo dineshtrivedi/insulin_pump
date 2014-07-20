@@ -2,33 +2,25 @@
 \addvspace {10pt}
 \contentsline {figure}{\numberline {1}{\ignorespaces Imagens de uma bomba de infus\IeC {\~a}o de insulina}}{25}{figure.1.1}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {2}{\ignorespaces For\IeC {\c c}as normais e tangenciais}}{36}{figure.2.2}
-\contentsline {figure}{\numberline {3}{\ignorespaces Vis\IeC {\~a}o paralela e perpendicular das \emph {stacks} e rotor}}{37}{figure.2.3}
-\contentsline {figure}{\numberline {4}{\ignorespaces Interconex\IeC {\~a}o das bobinas}}{38}{figure.2.4}
-\contentsline {figure}{\numberline {5}{\ignorespaces Rela\IeC {\c c}\IeC {\~a}o das interconex\IeC {\~o}es das bobinas}}{38}{figure.2.5}
-\contentsline {figure}{\numberline {6}{\ignorespaces \emph {Stator single stack}}}{39}{figure.2.6}
-\contentsline {figure}{\numberline {7}{\ignorespaces Motor h\IeC {\'\i }brido}}{39}{figure.2.7}
-\contentsline {figure}{\numberline {8}{\ignorespaces Tabelas de pinos LCD comum}}{41}{figure.2.8}
-\contentsline {figure}{\numberline {9}{\ignorespaces PIC18F452}}{44}{figure.2.9}
-\contentsline {figure}{\numberline {10}{\ignorespaces Estrutura Interna PIC18F452}}{45}{figure.2.10}
-\contentsline {figure}{\numberline {11}{\ignorespaces Pinos PIC18F452}}{46}{figure.2.11}
+\contentsline {figure}{\numberline {2}{\ignorespaces PIC18F452}}{34}{figure.2.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Pinos PIC18F452}}{35}{figure.2.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Estrutura do padr\IeC {\~a}o \emph {Factory Method}}}{43}{figure.2.4}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {12}{\ignorespaces Modelo de contexto da bomba de infus\IeC {\~a}o de insulina}}{51}{figure.3.12}
-\contentsline {figure}{\numberline {13}{\ignorespaces Caso de uso do m\IeC {\'o}dulo de interface com o usu\IeC {\'a}rio}}{52}{figure.3.13}
-\contentsline {figure}{\numberline {14}{\ignorespaces Caso de uso do m\IeC {\'o}dulo de controle de infus\IeC {\~a}o}}{53}{figure.3.14}
-\contentsline {figure}{\numberline {15}{\ignorespaces Caso de uso do m\IeC {\'o}dulo de monitoramento dos sensores}}{53}{figure.3.15}
+\contentsline {figure}{\numberline {5}{\ignorespaces Modelo de contexto da bomba de infus\IeC {\~a}o de insulina}}{49}{figure.3.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Caso de uso do m\IeC {\'o}dulo de interface com o usu\IeC {\'a}rio}}{50}{figure.3.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Caso de uso do m\IeC {\'o}dulo de controle de infus\IeC {\~a}o}}{51}{figure.3.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Caso de uso do m\IeC {\'o}dulo de monitoramento dos sensores}}{51}{figure.3.8}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {16}{\ignorespaces Estrutura do padr\IeC {\~a}o \emph {Factory Method}}}{58}{figure.4.16}
-\contentsline {figure}{\numberline {17}{\ignorespaces \emph {Software} Proteus}}{58}{figure.4.17}
-\contentsline {figure}{\numberline {18}{\ignorespaces Estrutura do \emph {Software}}}{59}{figure.4.18}
-\contentsline {figure}{\numberline {19}{\ignorespaces Diagrama de classe GlobalConfig}}{60}{figure.4.19}
-\contentsline {figure}{\numberline {20}{\ignorespaces Diagrama de classe InsulinPump}}{61}{figure.4.20}
-\contentsline {figure}{\numberline {21}{\ignorespaces Diagrama de classe Lcd}}{61}{figure.4.21}
-\contentsline {figure}{\numberline {22}{\ignorespaces Diagrama de classe Menu}}{62}{figure.4.22}
-\contentsline {figure}{\numberline {23}{\ignorespaces Diagrama de classe Motor}}{63}{figure.4.23}
-\contentsline {figure}{\numberline {24}{\ignorespaces Diagrama de classe TimerMotoror}}{63}{figure.4.24}
+\contentsline {figure}{\numberline {9}{\ignorespaces \emph {Software} Proteus}}{53}{figure.4.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Estrutura do \emph {Software}}}{54}{figure.4.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Diagrama de classe GlobalConfig}}{55}{figure.4.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Diagrama de classe InsulinPump}}{56}{figure.4.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Diagrama de classe Lcd}}{56}{figure.4.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Diagrama de classe Menu}}{57}{figure.4.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Diagrama de classe Motor}}{58}{figure.4.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Diagrama de classe TimerMotoror}}{58}{figure.4.16}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {25}{\ignorespaces Placa Microgenios PIC18F4452}}{66}{figure.5.25}
+\contentsline {figure}{\numberline {17}{\ignorespaces Placa Microgenios PIC18F4452}}{60}{figure.5.17}
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}
