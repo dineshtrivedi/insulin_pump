@@ -1,90 +1,91 @@
 \changetocdepth {3}
 \select@language {brazil}
-\contentsline {chapter}{\chapternumberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{23}{chapter.1}
-\contentsline {section}{\numberline {1.1}O que \IeC {\'e} Diabetes Mellitus?}{23}{section.1.1}
-\contentsline {section}{\numberline {1.2}Tipos de Tratamentos Diabetes Mellitus Tipo 1}{23}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Seringas}{24}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Bomba de Infus\IeC {\~a}o de Insulina}{24}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}Motiva\IeC {\c c}\IeC {\~a}o}{26}{section.1.3}
-\contentsline {section}{\numberline {1.4}Objetivos}{27}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Objetivos Secund\IeC {\'a}rios}{27}{subsection.1.4.1}
-\contentsline {section}{\numberline {1.5}Procedimentos Metodol\IeC {\'o}gicos}{27}{section.1.5}
-\contentsline {section}{\numberline {1.6}Organiza\IeC {\c c}\IeC {\~a}o do Trabalho}{28}{section.1.6}
-\contentsline {chapter}{\chapternumberline {2}Sistemas Embarcados}{31}{chapter.2}
-\contentsline {section}{\numberline {2.1}Sistemas Embarcados de Tempo Real}{31}{section.2.1}
-\contentsline {section}{\numberline {2.2}Sistemas Embarcados Cr\IeC {\'\i }ticos}{32}{section.2.2}
-\contentsline {section}{\numberline {2.3}Microcontrolador}{33}{section.2.3}
-\contentsline {section}{\numberline {2.4}PIC18F452}{33}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Descri\IeC {\c c}\IeC {\~a}o dos pinos}{35}{subsection.2.4.1}
-\contentsline {section}{\numberline {2.5}Sensores}{35}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Sensores Biol\IeC {\'o}gicos}{36}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Atuadores}{36}{subsection.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}Motor de Passo}{37}{subsection.2.5.3}
-\contentsline {subsection}{\numberline {2.5.4}LCD - \emph {Liquid Crystal Display}}{37}{subsection.2.5.4}
-\contentsline {section}{\numberline {2.6}PROTEUS \emph {DESIGN SUITE}}{38}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}ISIS \emph {SCHEMATIC CAPTURE}}{38}{subsection.2.6.1}
-\contentsline {section}{\numberline {2.7}MIKROC}{39}{section.2.7}
-\contentsline {section}{\numberline {2.8}\emph {OOC - \emph {Object Orientated Programming in ANSI-C}}}{39}{section.2.8}
-\contentsline {section}{\numberline {2.9}\emph {Design Patterns}}{40}{section.2.9}
-\contentsline {subsection}{\numberline {2.9.1}Usos de \emph {Design Patterns}}{41}{subsection.2.9.1}
-\contentsline {subsection}{\numberline {2.9.2}\emph {Factory Method}}{41}{subsection.2.9.2}
-\contentsline {chapter}{\chapternumberline {3}Bomba de infus\IeC {\~a}o de insulina}{45}{chapter.3}
-\contentsline {section}{\numberline {3.1}Contextualiza\IeC {\c c}\IeC {\~a}o}{45}{section.3.1}
-\contentsline {section}{\numberline {3.2}Caracter\IeC {\'\i }sticas gerais da bomba de infus\IeC {\~a}o}{45}{section.3.2}
-\contentsline {section}{\numberline {3.3}Aspectos de seguran\IeC {\c c}a da bomba de infus\IeC {\~a}o}{47}{section.3.3}
-\contentsline {section}{\numberline {3.4}Requisitos da bomba de infus\IeC {\~a}o}{49}{section.3.4}
-\contentsline {chapter}{\chapternumberline {4}M\IeC {\'o}dulo de controle de infus\IeC {\~a}o de insulina}{53}{chapter.4}
-\contentsline {section}{\numberline {4.1}Proteus}{53}{section.4.1}
-\contentsline {section}{\numberline {4.2}Arquitetura do Software}{54}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}M\IeC {\'o}dulo Config}{54}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}M\IeC {\'o}dulo InsulinPump}{55}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}M\IeC {\'o}dulo Lcd}{55}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}M\IeC {\'o}dulo Menu}{57}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}M\IeC {\'o}dulo Motor}{57}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}M\IeC {\'o}dulo TimerMotor}{58}{subsection.4.2.6}
-\contentsline {subsection}{\numberline {4.2.7}M\IeC {\'o}dulo Principal}{58}{subsection.4.2.7}
-\contentsline {chapter}{\chapternumberline {5}An\IeC {\'a}lise e discuss\IeC {\~a}o dos resultados}{59}{chapter.5}
-\contentsline {section}{\numberline {5.1}Simulador}{59}{section.5.1}
-\contentsline {section}{\numberline {5.2}C\IeC {\'a}lculo por Refer\IeC {\^e}ncia}{60}{section.5.2}
-\contentsline {section}{\numberline {5.3}Arquitetura modularizada}{60}{section.5.3}
-\contentsline {chapter}{\chapternumberline {6}Conclus\IeC {\~a}o}{65}{chapter.6}
-\contentsline {chapter}{Refer\^encias}{67}{section*.12}
+\contentsline {chapter}{\chapternumberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{21}{chapter.1}
+\contentsline {section}{\numberline {1.1}O que \IeC {\'e} Diabetes Mellitus?}{21}{section.1.1}
+\contentsline {section}{\numberline {1.2}Tipos de Tratamentos Diabetes Mellitus Tipo 1}{21}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Seringas}{22}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Bomba de Infus\IeC {\~a}o de Insulina}{22}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Motiva\IeC {\c c}\IeC {\~a}o}{24}{section.1.3}
+\contentsline {section}{\numberline {1.4}Objetivos}{25}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Objetivos Secund\IeC {\'a}rios}{25}{subsection.1.4.1}
+\contentsline {section}{\numberline {1.5}Procedimentos Metodol\IeC {\'o}gicos}{25}{section.1.5}
+\contentsline {section}{\numberline {1.6}Organiza\IeC {\c c}\IeC {\~a}o do Trabalho}{26}{section.1.6}
+\contentsline {chapter}{\chapternumberline {2}Revis\IeC {\~a}o Bibliogr\IeC {\'a}fica}{29}{chapter.2}
+\contentsline {section}{\numberline {2.1}Sistemas Embarcados}{29}{section.2.1}
+\contentsline {section}{\numberline {2.2}Sistemas Embarcados de Tempo Real}{30}{section.2.2}
+\contentsline {section}{\numberline {2.3}Sistemas Embarcados Cr\IeC {\'\i }ticos}{30}{section.2.3}
+\contentsline {section}{\numberline {2.4}Microcontrolador}{31}{section.2.4}
+\contentsline {section}{\numberline {2.5}PIC18F452}{31}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Descri\IeC {\c c}\IeC {\~a}o dos pinos}{33}{subsection.2.5.1}
+\contentsline {section}{\numberline {2.6}Sensores}{33}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Sensores Biol\IeC {\'o}gicos}{34}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Atuadores}{34}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Motor de Passo}{35}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}LCD - \emph {Liquid Crystal Display}}{35}{subsection.2.6.4}
+\contentsline {section}{\numberline {2.7}Proteus \emph {Design Suite}}{36}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}ISIS \emph {Schematic Capture}}{36}{subsection.2.7.1}
+\contentsline {section}{\numberline {2.8}MikroC}{37}{section.2.8}
+\contentsline {section}{\numberline {2.9}\emph {OOC - \emph {Object Orientated Programming in ANSI-C}}}{37}{section.2.9}
+\contentsline {section}{\numberline {2.10}\emph {Design Patterns}}{38}{section.2.10}
+\contentsline {subsection}{\numberline {2.10.1}Usos de \emph {Design Patterns}}{39}{subsection.2.10.1}
+\contentsline {subsection}{\numberline {2.10.2}\emph {Factory Method}}{39}{subsection.2.10.2}
+\contentsline {chapter}{\chapternumberline {3}Bomba de infus\IeC {\~a}o de insulina}{43}{chapter.3}
+\contentsline {section}{\numberline {3.1}Contextualiza\IeC {\c c}\IeC {\~a}o}{43}{section.3.1}
+\contentsline {section}{\numberline {3.2}Caracter\IeC {\'\i }sticas gerais da bomba de infus\IeC {\~a}o}{43}{section.3.2}
+\contentsline {section}{\numberline {3.3}Aspectos de seguran\IeC {\c c}a da bomba de infus\IeC {\~a}o}{45}{section.3.3}
+\contentsline {section}{\numberline {3.4}Requisitos da bomba de infus\IeC {\~a}o}{47}{section.3.4}
+\contentsline {chapter}{\chapternumberline {4}M\IeC {\'o}dulo de controle de infus\IeC {\~a}o de insulina}{51}{chapter.4}
+\contentsline {section}{\numberline {4.1}Proteus}{51}{section.4.1}
+\contentsline {section}{\numberline {4.2}Arquitetura do Software}{52}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}M\IeC {\'o}dulo Config}{52}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}M\IeC {\'o}dulo InsulinPump}{53}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}M\IeC {\'o}dulo Lcd}{53}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}M\IeC {\'o}dulo Menu}{55}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}M\IeC {\'o}dulo Motor}{55}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}M\IeC {\'o}dulo TimerMotor}{56}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}M\IeC {\'o}dulo Principal}{56}{subsection.4.2.7}
+\contentsline {chapter}{\chapternumberline {5}An\IeC {\'a}lise e discuss\IeC {\~a}o dos resultados}{57}{chapter.5}
+\contentsline {section}{\numberline {5.1}Simulador}{57}{section.5.1}
+\contentsline {section}{\numberline {5.2}C\IeC {\'a}lculo por Refer\IeC {\^e}ncia}{58}{section.5.2}
+\contentsline {section}{\numberline {5.3}Arquitetura modularizada}{58}{section.5.3}
+\contentsline {chapter}{\chapternumberline {6}Conclus\IeC {\~a}o}{63}{chapter.6}
+\contentsline {chapter}{Refer\^encias}{65}{section*.12}
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\contentsline {part}{Ap\^endices}{71}{section*.13}
-\contentsline {appendix}{\chapternumberline {A}Config}{73}{appendix.A}
-\contentsline {section}{\numberline {A.1}Config.c}{73}{section.A.1}
-\contentsline {section}{\numberline {A.2}Config.h}{75}{section.A.2}
-\contentsline {appendix}{\chapternumberline {B}InsulinPump}{77}{appendix.B}
-\contentsline {section}{\numberline {B.1}IInsulinPump.h}{77}{section.B.1}
-\contentsline {section}{\numberline {B.2}InsulinPump.c}{77}{section.B.2}
-\contentsline {section}{\numberline {B.3}InsulinPump.h}{80}{section.B.3}
-\contentsline {appendix}{\chapternumberline {C}Lcd}{81}{appendix.C}
-\contentsline {section}{\numberline {C.1}lcd.h}{81}{section.C.1}
-\contentsline {section}{\numberline {C.2}lcdFactory.h}{81}{section.C.2}
-\contentsline {section}{\numberline {C.3}lcdFactory.c}{82}{section.C.3}
-\contentsline {section}{\numberline {C.4}lcd4bits2x16}{82}{section.C.4}
-\contentsline {subsection}{\numberline {C.4.1}lcd4bits2x16.h}{82}{subsection.C.4.1}
-\contentsline {subsection}{\numberline {C.4.2}lcd4bits2x16.c}{82}{subsection.C.4.2}
-\contentsline {appendix}{\chapternumberline {D}Menu}{87}{appendix.D}
-\contentsline {section}{\numberline {D.1}IMenu.h}{87}{section.D.1}
-\contentsline {section}{\numberline {D.2}MenuConfigurar.h}{87}{section.D.2}
-\contentsline {section}{\numberline {D.3}MenuConfigurar.c}{87}{section.D.3}
-\contentsline {section}{\numberline {D.4}MenuExecutando.h}{90}{section.D.4}
-\contentsline {section}{\numberline {D.5}MenuExecutando.c}{90}{section.D.5}
-\contentsline {section}{\numberline {D.6}MenuInicial.h}{92}{section.D.6}
-\contentsline {section}{\numberline {D.7}MenuInicial.c}{92}{section.D.7}
-\contentsline {section}{\numberline {D.8}MenuReservatorio.h}{94}{section.D.8}
-\contentsline {section}{\numberline {D.9}MenuReservatorio.c}{94}{section.D.9}
-\contentsline {appendix}{\chapternumberline {E}Motor}{97}{appendix.E}
-\contentsline {section}{\numberline {E.1}IMotorPasso.h}{97}{section.E.1}
-\contentsline {section}{\numberline {E.2}MotorPassoFactory.h}{97}{section.E.2}
-\contentsline {section}{\numberline {E.3}MotorPassoFactory.c}{97}{section.E.3}
-\contentsline {section}{\numberline {E.4}MotorProteus}{98}{section.E.4}
-\contentsline {subsection}{\numberline {E.4.1}MotorProteus.h}{98}{subsection.E.4.1}
-\contentsline {subsection}{\numberline {E.4.2}MotorProteus.c}{98}{subsection.E.4.2}
-\contentsline {appendix}{\chapternumberline {F}TimerMotor}{101}{appendix.F}
-\contentsline {section}{\numberline {F.1}ITimerMotor.h}{101}{section.F.1}
-\contentsline {section}{\numberline {F.2}TimerMotorPasso.h}{101}{section.F.2}
-\contentsline {section}{\numberline {F.3}TimerMotorPasso.c}{101}{section.F.3}
-\contentsline {appendix}{\chapternumberline {G}Principal}{103}{appendix.G}
-\contentsline {section}{\numberline {G.1}insulin\_pump.c}{103}{section.G.1}
+\contentsline {part}{Ap\^endices}{69}{section*.13}
+\contentsline {appendix}{\chapternumberline {A}Config}{71}{appendix.A}
+\contentsline {section}{\numberline {A.1}Config.c}{71}{section.A.1}
+\contentsline {section}{\numberline {A.2}Config.h}{73}{section.A.2}
+\contentsline {appendix}{\chapternumberline {B}InsulinPump}{75}{appendix.B}
+\contentsline {section}{\numberline {B.1}IInsulinPump.h}{75}{section.B.1}
+\contentsline {section}{\numberline {B.2}InsulinPump.c}{75}{section.B.2}
+\contentsline {section}{\numberline {B.3}InsulinPump.h}{78}{section.B.3}
+\contentsline {appendix}{\chapternumberline {C}Lcd}{79}{appendix.C}
+\contentsline {section}{\numberline {C.1}lcd.h}{79}{section.C.1}
+\contentsline {section}{\numberline {C.2}lcdFactory.h}{79}{section.C.2}
+\contentsline {section}{\numberline {C.3}lcdFactory.c}{80}{section.C.3}
+\contentsline {section}{\numberline {C.4}lcd4bits2x16}{80}{section.C.4}
+\contentsline {subsection}{\numberline {C.4.1}lcd4bits2x16.h}{80}{subsection.C.4.1}
+\contentsline {subsection}{\numberline {C.4.2}lcd4bits2x16.c}{80}{subsection.C.4.2}
+\contentsline {appendix}{\chapternumberline {D}Menu}{85}{appendix.D}
+\contentsline {section}{\numberline {D.1}IMenu.h}{85}{section.D.1}
+\contentsline {section}{\numberline {D.2}MenuConfigurar.h}{85}{section.D.2}
+\contentsline {section}{\numberline {D.3}MenuConfigurar.c}{85}{section.D.3}
+\contentsline {section}{\numberline {D.4}MenuExecutando.h}{88}{section.D.4}
+\contentsline {section}{\numberline {D.5}MenuExecutando.c}{88}{section.D.5}
+\contentsline {section}{\numberline {D.6}MenuInicial.h}{90}{section.D.6}
+\contentsline {section}{\numberline {D.7}MenuInicial.c}{90}{section.D.7}
+\contentsline {section}{\numberline {D.8}MenuReservatorio.h}{92}{section.D.8}
+\contentsline {section}{\numberline {D.9}MenuReservatorio.c}{92}{section.D.9}
+\contentsline {appendix}{\chapternumberline {E}Motor}{95}{appendix.E}
+\contentsline {section}{\numberline {E.1}IMotorPasso.h}{95}{section.E.1}
+\contentsline {section}{\numberline {E.2}MotorPassoFactory.h}{95}{section.E.2}
+\contentsline {section}{\numberline {E.3}MotorPassoFactory.c}{95}{section.E.3}
+\contentsline {section}{\numberline {E.4}MotorProteus}{96}{section.E.4}
+\contentsline {subsection}{\numberline {E.4.1}MotorProteus.h}{96}{subsection.E.4.1}
+\contentsline {subsection}{\numberline {E.4.2}MotorProteus.c}{96}{subsection.E.4.2}
+\contentsline {appendix}{\chapternumberline {F}TimerMotor}{99}{appendix.F}
+\contentsline {section}{\numberline {F.1}ITimerMotor.h}{99}{section.F.1}
+\contentsline {section}{\numberline {F.2}TimerMotorPasso.h}{99}{section.F.2}
+\contentsline {section}{\numberline {F.3}TimerMotorPasso.c}{99}{section.F.3}
+\contentsline {appendix}{\chapternumberline {G}Principal}{101}{appendix.G}
+\contentsline {section}{\numberline {G.1}insulin\_pump.c}{101}{section.G.1}
